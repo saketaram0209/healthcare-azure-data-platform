@@ -1,0 +1,51 @@
+provider_id,name,specialty,department,license_no,npi,hire_date,shift
+f47d956d-3879-41c9-8935-80963b5c642f,Dr. Lauren Wright,Oncology,Pediatrics,LIC-26n1454,0796373100,2024-06-07,Morning
+49efd163-2353-4fae-bb82-dde120aa1e06,Dr. Monica Simpson,Surgery,ICU,LIC-85x2211,8718452354,2012-04-02,Afternoon
+9e501ae3-c514-4412-87ec-29dc01041318,Dr. Taylor Salinas,Pediatrics,Outpatient,LIC-44m7017,2086523777,2010-10-02,Rotating
+ae16bce7-abff-4c43-be53-2ef0223671ad,Dr. Jennifer Nguyen,Orthopedics,ICU,LIC-33d7014,0527810558,2007-10-24,Morning
+b899fcd2-abaa-4eae-bd1f-3355cc787691,Dr. Thomas Webb,Orthopedics,Neurology,LIC-22D1425,3160943913,2019-10-20,Morning
+a5eff495-3654-4b4a-ac2b-c552b6e93290,Dr. Lori Miller,Internal Medicine,Pediatrics,LIC-20N3136,5528620929,2022-09-30,Morning
+eae6b1c7-3ffa-4c89-9856-6318b57f8753,Dr. Hailey Ball,Pediatrics,Outpatient,LIC-95j3322,7393899204,2018-08-18,Afternoon
+02aa0fe9-f79b-4f29-a960-d7a785d43404,Dr. Melissa Clayton,Oncology,Emergency,LIC-35B3236,1850761087,2007-10-23,Night
+c5b9a953-1304-4efa-bee6-897168d2928f,Dr. Jasmine Jimenez,Internal Medicine,Outpatient,LIC-18g2360,0712615838,2012-06-24,Afternoon
+7c2f2b50-2ac7-4754-b35a-ad196a0d67d6,Dr. Tracey Vasquez,Psychiatry,Surgery,LIC-64m8467,5742233222,2023-07-22,Night
+3d5c3dcc-93af-43f9-b61a-490f8bcc7d42,Dr. Brian Lawson,Oncology,Oncology,LIC-42T5892,2256062953,2018-11-25,Morning
+b2bff964-d50e-4612-84eb-761e27da0d3e,Dr. Stephanie Allen,Surgery,Pediatrics,LIC-73r1180,6741307538,2016-08-19,Morning
+cf2ddbee-f38c-4d93-8311-60b1f148aac4,Dr. Marissa Nguyen,Emergency Medicine,Surgery,LIC-01Q3626,0846397561,2016-12-08,Afternoon
+6ee0cfbb-15c3-49e4-88ce-3013a9384099,Dr. Rachel Williams,Emergency Medicine,Pediatrics,LIC-54x9121,1641195564,2006-11-01,Rotating
+288d3bbf-fdc7-492a-8bf1-c7d991c1c8b0,Dr. Meagan Johnston,Neurology,ICU,LIC-69J3957,7520702042,2021-01-16,Night
+97127e35-052d-4cbe-a23b-3bbde23fc609,Dr. Mary Jones,Radiology,Radiology,LIC-71e2124,3936967897,2020-01-27,Afternoon
+3c0d5681-d21b-47a8-8c90-2e63ae433252,Dr. Troy Wells,Neurology,Neurology,LIC-12f6773,9227607598,2024-06-14,Rotating
+c5c90f30-2198-4d04-a090-2a2e09d25b58,Dr. Mariah Fisher,Oncology,Oncology,LIC-33M9431,1654308952,2014-03-11,Rotating
+42174182-44b9-4a4d-ac05-42574da6177c,Dr. Angel Martinez,Emergency Medicine,Outpatient,LIC-15r0576,4974700026,2022-01-20,Night
+516c5093-2c6a-4097-a8e6-849be6e734c9,Dr. Eric Ortega,Pediatrics,Emergency,LIC-67L6497,7416365604,2017-07-04,Morning
+55dd844c-e448-4d3e-b44e-1985ec79497a,Dr. Jason Gomez,Orthopedics,Oncology,LIC-37r3096,9692771195,2010-12-06,Rotating
+743f7369-1e04-4eb3-a9fe-5cb5b3425e27,Dr. Jamie Morris,Internal Medicine,Surgery,LIC-05x9702,5128276364,2014-03-31,Night
+2764d7fe-6269-48cb-884f-ad5ff6c24cee,Dr. Dr. Lisa Hendricks,Neurology,Emergency,LIC-98w9596,4663454434,2015-01-06,Morning
+4a50ed2a-3452-43d9-8592-80c31b7f8fcf,Dr. Rebecca Torres,Cardiology,General Ward,LIC-16W9993,9344974394,2020-03-16,Rotating
+b94b1b9f-e9e4-4209-ab05-1dbd90c34292,Dr. Joseph Lowe,Neurology,General Ward,LIC-82v2309,8629739889,2015-06-07,Morning
+a9f36267-c216-4af5-a788-6ffba7f7d28d,Dr. Christopher Coffey,Internal Medicine,Emergency,LIC-97E2021,0754853465,2017-09-18,Afternoon
+716ba3ee-dce9-4e88-8817-81ac8f780707,Dr. Kevin Villarreal,Oncology,Radiology,LIC-20r3004,9646129390,2007-03-11,Rotating
+5acb2081-dea3-4e29-b5d6-16ee24b35db9,Dr. Omar Kelly,Emergency Medicine,ICU,LIC-21w3756,8963595708,2020-11-23,Morning
+389f21a1-3306-4033-9528-ff09d7a76117,Dr. Angela Berry,Neurology,Neurology,LIC-31m4584,4566311388,2018-11-18,Morning
+7f3a2a64-0db9-48c4-ba41-da6046171604,Dr. Daniel Zamora,Psychiatry,Outpatient,LIC-36m2203,4742463104,2014-02-25,Night
+50286b9e-3832-420b-b316-f09254715233,Dr. Michelle Perry,Oncology,ICU,LIC-68T0085,2946902177,2015-12-28,Night
+20723b49-f2ad-4acc-bea6-1c1f9d44f7ce,Dr. Dennis Chaney,Oncology,Surgery,LIC-43I5023,5022894665,2012-06-03,Morning
+eff973ee-14f7-4728-a037-46b20f80b444,Dr. George Wiggins,Surgery,Cardiology,LIC-23N3282,3020256913,2013-03-19,Afternoon
+a448614d-3f0c-47be-88ff-d42fcac6aadc,Dr. Crystal Robinson,Oncology,Oncology,LIC-46Q7711,6750762799,2018-01-29,Afternoon
+f7084ada-ea62-4bfb-af6b-5e754c35f65e,Dr. Emily Roach,Orthopedics,General Ward,LIC-02f4530,2398472303,2015-06-23,Night
+8d567655-1d79-41f1-b1a6-7da6e2794e34,Dr. Tiffany Anderson,Radiology,Oncology,LIC-28Z4719,0172224050,2021-03-17,Morning
+a7e098d3-a78b-4f4f-af37-a8e010169ecb,Dr. Miranda Hendricks,Internal Medicine,Surgery,LIC-48u7177,4619924065,2024-09-08,Night
+2a0f07a7-c429-4848-8618-9bc0b05ba69f,Dr. Shane Alexander,Oncology,General Ward,LIC-72j5812,5909566844,2023-07-07,Rotating
+058e7e05-bf86-4166-becd-4692a19567a4,Dr. Brittany Wright,Emergency Medicine,Pediatrics,LIC-33g7912,2110187803,2018-01-20,Night
+5ca0f834-e941-4275-b1d6-5f72be524f27,Dr. Ms. Renee Newton,Pediatrics,Radiology,LIC-01S7074,0392519994,2018-05-03,Afternoon
+e937bf3f-0508-4949-95d0-20dedd313246,Dr. Fernando Blackwell,Radiology,Emergency,LIC-17F1222,6433872205,2016-02-06,Afternoon
+818e202c-7feb-44d4-89a8-0563e2b8ce71,Dr. Brian Thompson,Orthopedics,ICU,LIC-54V9633,0833444704,2023-05-07,Rotating
+2ee26c77-c6f0-4fd5-ac1d-7da4eb4d6b7b,Dr. Kathryn Greene,Neurology,Outpatient,LIC-50a4702,5968519537,2023-03-01,Rotating
+2a3c9e3a-cc1a-442b-8b19-dbf72385cab1,Dr. Michael White,Neurology,Radiology,LIC-63o2956,4277752259,2011-06-27,Night
+1c598647-11f4-4099-9590-5881d481cf4f,Dr. Bobby Ross,Oncology,Outpatient,LIC-81P2920,5922941156,2013-09-08,Afternoon
+38e84c1c-39db-4339-8146-caf7ca49fd4c,Dr. Kevin Stewart,Orthopedics,Pediatrics,LIC-96Q3637,2629420661,2017-08-31,Afternoon
+8f66fdfc-7af8-46eb-b98d-556e5f523e55,Dr. Loretta Johnson,Radiology,Pediatrics,LIC-85o1331,8004983211,2012-04-09,Afternoon
+5276cc58-272b-41c8-9fa4-c87223a853ff,Dr. Anna Poole,Oncology,Pediatrics,LIC-15I4815,2686876401,2009-12-28,Night
+ce54589b-c0db-401b-b4c8-ff49780a3331,Dr. Deborah Medina,Radiology,Outpatient,LIC-64Y4200,6298778735,2023-12-24,Afternoon
+0fe553ad-9aa2-41a6-9877-3813fae9b399,Dr. Norman Hughes,Neurology,Surgery,LIC-64B6419,2342192622,2008-10-24,Night

@@ -1,0 +1,501 @@
+patient_id,first_name,last_name,dob,gender,race,address,city,state,zip,phone,ssn,insurance_id,insurer,blood_type,created_at
+bdb8f4a8-4ca5-4603-be16-c1e560635fe0,Daniel,Figueroa,2017-04-14,Unknown,White,21819 Johnson Course,East William,TX,03979,+1-438-863-7940,349-36-2548,INS-yg3511ww,Humana,B-,2020-10-05 05:08:28
+a82de473-0dbe-4d93-81f1-43442632e237,Jessica,Herrera,1936-03-03,M,Black,84959 Janet Cape Apt. 413,South Joshuastad,CA,21820,(653)541-9283x276,702-42-0917,INS-re3056nK,Aetna,O+,2021-08-12 21:05:54
+c7854cff-e7cc-4a81-9652-e485dcec40ba,Diana,Foster,1959-03-13,M,White,42388 Burgess Meadow Suite 532,Daviston,CA,14872,(626)291-6697,697-93-1877,INS-sB8451kD,Cigna,B-,2016-04-25 16:54:27
+3435f4a3-a9af-4224-8447-426b7115201f,Teresa,Gill,1966-02-08,Unknown,Other,489 Eric Track,New Stephanie,TX,70015,2955701543,581-11-1404,INS-iQ7182EJ,Cigna,O+,2019-01-26 14:26:53
+a9d9ffab-f9dd-41f7-a8b9-ef83133dd6a2,Allison,Obrien,1966-05-02,M,Hispanic,346 Kim Path,Martinezbury,MI,08893,309-583-9301x03105,286-86-7954,INS-KE3829pY,Humana,A+,2024-04-22 11:46:04
+350da3ce-1508-4ab8-afd4-f0cdcaa7ce85,James,Davis,1985-08-29,M,Hispanic,6670 Bruce Stream Suite 133,New Shane,OH,55797,(247)331-7810,772-31-2725,INS-zd6773ky,Humana,B+,2016-04-18 22:21:48
+661b7434-c960-4a1b-9be4-9237b8840a4e,Joseph,Bowers,1983-05-24,M,Asian,6872 Kenneth Centers Apt. 500,Shawhaven,CA,21136,3815219136,593-77-0652,INS-KH9169uq,Aetna,O+,2019-09-26 18:16:15
+edec168b-4957-4d7a-8a45-1bfd89659d83,Jennifer,Allen,2021-05-29,M,Asian,47510 Howell Port Apt. 183,Davidstad,OH,09517,254.627.8498,680-14-2201,INS-jr4118sM,Humana,A+,2019-11-05 08:18:05
+9178086e-d59f-4990-a66e-0b1cf71fb3b4,James,Walters,1976-12-03,Unknown,Hispanic,740 Cynthia Village Suite 005,Lake Tina,NC,21679,001-478-868-0112x8059,131-06-5051,INS-Rp5053Qg,Aetna,O+,2022-04-12 05:18:41
+5d7756da-124a-419d-b89b-a4db486d3ec7,Nicole,Russell,2006-06-16,M,Other,22602 Patton Loop,West Erik,IL,92418,560-573-3754,025-85-3165,INS-Xr6541wP,Medicare,B-,2024-12-04 21:00:41
+a32cc630-7805-442d-badf-803b62536626,Erin,Anthony,1984-08-27,Unknown,White,14294 Daniel Mews Suite 569,South Rachelborough,TX,33887,7607883561,680-16-4921,INS-zS8465sJ,Cigna,AB+,2018-06-05 11:27:50
+51f51246-2a79-4887-b549-021bc83e6af6,Robert,Bentley,1956-05-14,M,Black,946 Kevin Fords,Floydmouth,CA,61447,573.687.2148x951,231-26-2415,INS-NX0037eD,Medicaid,AB+,2023-04-24 18:51:13
+506064ff-7eed-4926-b927-d634c982ece2,Barbara,Higgins,2015-12-20,F,Asian,6320 Kimberly Forges Apt. 870,Port David,NY,17978,988.995.7986x872,266-97-4051,INS-rC4873eT,Medicare,AB-,2021-02-13 23:48:06
+a1e067bc-8940-4d53-8fb1-a50dc16f3087,Joseph,Flores,1962-03-04,M,Asian,23623 Robert Isle,Perryborough,CA,55570,(590)996-7054x6688,225-35-7141,INS-QR7065Zz,UnitedHealth,B-,2019-01-26 02:11:06
+3ae35dcb-d0ea-47f9-83c7-d450f4e23e96,Samantha,Hooper,1993-11-14,M,Hispanic,9901 Taylor Mountain,North Jorge,PA,43407,975.256.4641,768-70-0854,INS-Wb5310pm,Humana,B-,2016-08-10 04:13:10
+6c233d92-9672-4a60-b22e-e31fcabb3919,Elijah,Martinez,2014-10-27,Unknown,Asian,374 Jackson Rest,Port Loriport,TX,14669,001-504-396-6319,714-99-4942,INS-wI9190BQ,Cigna,A+,2022-07-26 04:27:59
+51644434-4b10-4199-af08-c59ba3285605,William,Peterson,1939-08-23,F,Hispanic,1657 Ryan Street Suite 987,Grahamshire,IL,35680,431-947-3799x65075,218-46-4233,INS-Ja5494Hm,Aetna,B-,2017-09-19 12:27:40
+184ad2da-2592-45dd-896f-0fb5f070ae7c,Jennifer,Freeman,1963-02-08,Unknown,Asian,777 Christopher Forges,Holtport,FL,87527,001-757-988-5685,278-40-4119,INS-hV3135IW,Self-Pay,O+,2019-05-31 00:28:39
+a6eb5f6b-f414-48a0-8d11-dd9d04a5f4fd,Javier,Washington,1956-04-29,Unknown,Hispanic,34352 Smith Place Apt. 400,Heidiberg,NY,84107,001-371-309-4777x52047,411-63-1214,INS-ZK9022tf,Humana,B+,2020-06-25 17:50:56
+e073bc5c-f70d-46d3-a652-08aade16e9b6,Angela,Butler,1946-05-19,M,Other,677 Dalton Meadow,Ashleyton,NC,80406,001-813-934-1232x8120,706-77-7700,INS-Ts4034SD,Humana,O+,2017-06-21 20:01:34
+03571e9c-f54e-4fd5-b579-875f55d32531,Jesus,Baker,2023-10-24,Unknown,Hispanic,1832 Serrano Cliffs,East Laurashire,OH,38329,217.846.4887x719,753-42-9892,INS-RK4013Lb,Cigna,B+,2020-11-05 05:19:41
+4bbe5458-e586-424d-8e4f-446a2d931940,Billy,Avila,2008-09-07,Unknown,Hispanic,742 Walters Overpass Apt. 756,Manuelville,CA,21580,267-946-8071x54516,424-07-3074,INS-OC8597Wd,BlueCross,A-,2019-09-22 09:44:10
+ac8b435f-ad60-410f-80aa-c6a55afd7ccf,Andrea,Pennington,1966-08-09,M,Black,710 Jennifer Inlet Apt. 861,Port Robin,PA,60983,527-948-4677,565-19-6285,INS-er3982XY,Aetna,O+,2023-04-27 21:37:48
+a8dc2ffa-704c-4360-8a75-454d5d73093c,Sarah,Romero,1976-07-07,F,Other,4997 Sean Orchard,Martinside,GA,49942,853.439.6360x576,508-05-2069,INS-Cg8951HD,Humana,A+,2016-07-09 21:43:51
+a7c661e2-5b49-4247-af5f-5927acee1dff,Robert,Pena,1949-11-17,Unknown,White,74596 Melissa Walk,Finleyfort,NC,71413,3919343161,171-89-4907,INS-sw0050xB,Humana,AB-,2018-09-27 01:52:20
+63783d28-d41d-4104-87e1-96052af2c526,Amanda,Knight,1963-06-30,M,Asian,21969 Tyler Prairie,East Steven,PA,33790,840.674.8217x594,468-39-3264,INS-yK6713wK,UnitedHealth,O-,2021-04-18 00:37:11
+df107aac-87e8-41e9-b86b-c93ecafb3f57,Kenneth,Spence,2025-06-06,M,Asian,0909 Wall Heights Apt. 953,New John,NC,99536,001-821-404-7095x2145,206-17-8838,INS-kq5884EZ,UnitedHealth,A-,2021-04-13 11:36:50
+ff0e1e84-b577-4e48-b6de-7b5f73b0ed0d,Linda,Mcdonald,1976-05-10,Unknown,Asian,36851 Smith Plain,South Miguelview,NC,77120,(651)837-0985x9317,120-18-0743,INS-gp0471Ii,Cigna,B+,2022-11-15 11:59:52
+d8b674a2-8136-4333-9991-b845b0d2eedb,Nathan,Avery,1991-12-31,F,Black,261 Gilbert Harbors Apt. 537,Sampsonstad,NC,13523,+1-258-750-6431x71390,250-17-9251,INS-Ln3183ov,BlueCross,AB-,2018-10-09 09:48:16
+cb5ceef9-2dc1-42ed-8625-ee1a1edb0539,Aaron,Garrison,2011-05-16,F,White,84210 Alexis Turnpike,New Mario,CA,23339,302-968-1177x589,516-29-0711,INS-dE8470zB,Medicare,AB+,2018-02-05 09:21:56
+c8d7adc8-aa9a-499e-926f-8a898ca067e3,Jennifer,Wallace,1996-12-25,M,White,9212 Weber Prairie,Oscarhaven,FL,39153,789.961.1836x736,409-54-1558,INS-xj5654RE,Aetna,A-,2017-05-27 16:34:34
+489b1c07-04e1-4a21-b3ff-11808e48c244,Marie,Davis,1942-09-03,Unknown,Hispanic,528 Brenda Points,Elizabethchester,CA,46847,+1-360-749-4519x83273,866-72-6023,INS-ZB1493JX,UnitedHealth,B+,2025-09-24 23:58:55
+dc7ec0b4-fc9b-422f-8cf6-d5c788036000,Chelsea,Barrett,1933-10-31,Unknown,Hispanic,24455 Howard Divide Suite 120,Lake Alyssafurt,NC,55529,252.354.5991x022,279-57-6948,INS-rn7976WG,UnitedHealth,AB+,2018-03-13 18:37:40
+dd944c12-a894-4af5-af1c-408ea7acbfaa,Russell,Campbell,1977-03-27,Unknown,Other,403 Joyce Centers Apt. 343,Port Jonathan,PA,43508,707-362-2683,407-95-0694,INS-uK6071BK,Cigna,B-,2023-02-21 12:50:33
+1b2a3612-424d-49ce-b023-7b7b9d598a48,Robert,Wilson,2017-05-19,Unknown,Asian,2975 Samuel Coves,South Brianna,PA,69177,364-553-5218,795-45-5753,INS-qm2312lM,Medicare,O-,2018-11-11 10:31:33
+d07b201f-dd50-42a2-9ec5-cbc508780073,Charles,Bean,2019-06-22,Unknown,Hispanic,9979 Lin Road Suite 271,Ramosport,CA,36503,001-205-781-4770,852-37-1258,INS-yD1998LJ,Cigna,B-,2016-12-16 10:40:53
+4ade53ca-edf0-45df-9102-f62561fc5762,Regina,Armstrong,1991-06-20,M,Asian,9782 Shannon Valleys,Toniland,TX,66633,+1-820-837-7889x2554,794-44-9796,INS-gJ0515Ry,Cigna,B-,2021-02-04 03:59:59
+d1a0eb3d-b2ab-4ea5-8a03-56d538aa4799,Jennifer,Douglas,1964-07-21,M,White,1925 Ponce Square,Andersonland,TX,41078,+1-265-728-1685,317-24-3510,INS-ij5733es,Cigna,A-,2017-12-25 00:08:05
+8d94df5b-84d6-4a4f-b19b-101cff17e533,Kelli,Conley,1999-05-10,M,Asian,592 Moore Falls,Lake Samuel,CA,54353,(737)994-7383x473,473-99-4617,INS-km6886ZM,Cigna,AB+,2018-08-13 12:24:57
+ee6c1731-5e5a-40ea-85cf-2c3f5738ba12,Brett,Castillo,1964-04-13,Unknown,Hispanic,181 Miller Estates Suite 782,Davisbury,FL,59631,(206)706-8536x153,102-92-5494,INS-ES2204iW,UnitedHealth,O-,2024-03-29 11:42:15
+17573b41-b657-4ccf-8b94-31223926d86d,Christina,Bullock,1991-04-25,M,Hispanic,3289 Rodriguez Heights,West David,PA,31753,(897)211-7980x89324,630-46-3942,INS-Hx9621eH,Cigna,A-,2025-07-08 08:18:50
+1db2aa36-03ee-4803-af75-1847c556795e,Kristin,Romero,1999-04-22,M,Hispanic,7065 Burgess Knolls,West Johnville,OH,76772,001-952-205-8527x7221,301-26-0718,INS-Gz3054IE,Medicaid,O+,2020-07-27 13:49:05
+c090a416-192b-422c-bc69-ba8539395d25,Karen,Lee,1935-03-30,F,White,54156 Paul Lights Suite 277,Sandrahaven,CA,35460,361-369-2845,336-85-4844,INS-kS4796Cw,BlueCross,O+,2023-11-13 21:44:21
+38526f3c-3141-4178-b1bb-c4f281248d53,Jessica,Buck,1936-01-09,Unknown,Asian,0165 Stephanie Divide Suite 021,Port Deanna,CA,47968,(790)892-7557x1928,322-84-4567,INS-FH3102yJ,Cigna,B-,2018-04-07 06:43:27
+9c5cca4c-a752-4533-9bad-2b97cc9ca3dc,Kimberly,Padilla,1965-11-19,M,Other,473 Derek Cliffs,Thompsonmouth,GA,12007,+1-555-418-8442x25831,243-64-0431,INS-DZ5895Ji,UnitedHealth,O+,2017-09-23 06:18:57
+8a9d2942-c871-41f7-aae6-21e659af85f0,Kyle,Key,1939-03-17,M,Asian,669 David Island Apt. 778,Davidside,GA,84360,001-622-468-0182,166-42-3695,INS-qm5841OJ,Cigna,A-,2020-12-05 22:02:08
+ccb99249-e0d7-4e7b-8692-5a0402de476d,Colleen,Mendez,1947-04-18,F,Other,299 George Road,Meganshire,CA,05900,2109943969,643-70-4746,INS-tD4736eS,BlueCross,A+,2017-04-12 19:48:39
+e577a54a-d58d-46c1-a6e1-28fe75a274d6,Scott,Washington,1951-10-10,M,Black,9255 Hester Curve,Zacharyville,NY,42328,671.847.3210,885-79-6851,INS-Uu3259mW,Medicaid,O-,2018-12-21 15:47:39
+7372e2df-5b8c-4160-8484-98f9c04f4004,Wendy,Owens,1998-01-26,F,Black,0168 Levy Forge Suite 004,Harperfort,PA,37954,+1-201-862-4565,053-73-9205,INS-ey3584GC,BlueCross,B+,2025-08-13 05:33:51
+2fd85ce3-e2f2-48f9-b109-22256ab8b41f,Marcia,Hanson,1968-04-29,F,White,16558 Fischer Flat,Porterton,PA,05601,(757)787-2982,167-51-4903,INS-IF9588TK,Humana,O-,2021-05-12 08:56:27
+1112c12e-2b4f-429b-9473-cbe867c78a99,Lisa,Richardson,1994-11-22,F,Hispanic,9409 Baker Shoal,Lake Brett,NC,63474,(589)262-3091,452-41-6862,INS-GX2636NE,Self-Pay,B+,2017-04-27 12:59:23
+80d84c40-e811-40b2-be7c-a946e2e04383,April,Hoffman,1949-01-19,M,Asian,652 Barr Junctions Suite 497,East Joshua,FL,39625,644.637.5758,125-74-8900,INS-sc6652sT,BlueCross,A+,2017-08-09 14:39:16
+72951927-ee50-4719-b642-61df02f4e122,Sandra,Douglas,1977-05-25,Unknown,Asian,38484 Daniel Streets Apt. 308,Lake Jesse,TX,13634,(657)212-0826x77345,788-12-9407,INS-Al3802cz,BlueCross,O-,2024-09-08 17:55:57
+308e5902-ff67-4768-92d5-f777883e6668,Sharon,Hayden,1955-08-13,Unknown,Other,04991 Mitchell Row Suite 287,Jamesville,NY,43844,(474)820-5493,847-55-8443,INS-li5161Eu,BlueCross,A-,2020-06-24 20:23:36
+cce997bf-1eb0-4f64-a507-b9c06471ee4f,Jose,Young,1931-03-10,M,White,4990 Valdez Square Apt. 017,Erikhaven,MI,92717,001-841-945-9332x72795,776-69-3579,INS-CH3918Tx,Aetna,B-,2017-08-03 20:27:09
+2c27e293-48b5-47b2-912d-6eff3a50ca56,Daniel,Poole,2007-01-15,F,White,822 Bond Mills,Lake Jamieshire,MI,64572,287-907-2867,689-40-0357,INS-Le6403cB,Cigna,A+,2022-02-14 08:47:58
+02606737-573b-4ecb-a3c9-d1ae7fc9ef3f,Bryce,Mcknight,2025-07-31,Unknown,White,0462 Katie Stream,Brooksfurt,PA,59291,(261)282-5128x6823,306-60-8921,INS-pD6863wj,Medicare,AB+,2020-12-13 08:47:54
+ca2b0129-1ed6-4eba-8b39-d8954384886d,Sharon,Hardy,1955-11-29,M,Asian,69033 Craig Bypass,Harperton,FL,32578,001-706-773-8302x8439,243-39-2348,INS-rd8364JL,Humana,O+,2019-03-29 18:41:07
+70ba151e-db96-4d55-8467-2258456b17c5,Erika,Peters,2015-06-16,M,Asian,6856 Hernandez Lane,Port Amanda,GA,32085,442.870.8668,249-33-3332,INS-fI5175Um,Medicare,A-,2017-02-19 18:37:49
+20eaf24d-4330-440e-8bf6-8a126162e8ca,Nicholas,Jacobs,1966-10-18,M,Hispanic,39837 Molly Isle,Susantown,MI,28263,717.639.3638,390-60-8744,INS-GF5445Dg,Aetna,A-,2024-03-31 20:25:02
+cec9077d-8e70-4c96-a865-99da1b298d1b,Robin,Wood,1973-11-03,Unknown,Black,93204 Phillips Flat Suite 369,South Andrea,NC,90265,247-377-2522x87280,838-86-0795,INS-eT0623ja,Humana,B+,2019-12-25 14:46:21
+d7cfd1ce-31e8-4b35-8a35-e4237833a2d0,Stephen,Brown,1999-02-02,F,White,700 Smith Pines Suite 840,Drakeburgh,FL,14527,682-833-9845,081-48-6653,INS-tR7933fP,Medicare,AB+,2016-10-19 10:04:02
+fdfbf860-a1d6-4f0d-b835-13758efad8de,Richard,Bennett,1942-12-25,M,Hispanic,02176 Knight Walks Apt. 803,Port Heather,NC,74790,440.814.8902x5039,079-39-2662,INS-RI9396vy,Humana,A+,2018-08-23 03:52:33
+1b9fb222-131a-484c-8b77-777d47ed53e6,Jennifer,Mason,2024-01-27,Unknown,Other,16315 Novak Islands Apt. 477,West Angela,IL,49708,(829)761-9431x14262,370-14-1500,INS-Wr0475gi,Aetna,B+,2017-09-29 23:38:17
+e4d7bc41-f6b5-45b6-9b16-1518d22e5dfd,Ryan,Hawkins,1955-10-06,F,White,01581 Shields Bridge Suite 661,New Adriana,CA,90326,(622)944-4721x2646,802-10-5917,INS-Nm4379Dg,UnitedHealth,AB+,2018-07-26 10:35:39
+7db8cc60-97c0-4a7e-b1b9-754dd0b061ca,Adam,Foster,1971-09-21,F,Other,7569 Kevin Rapids Apt. 752,Novakport,FL,96822,001-479-235-6465x193,745-60-3435,INS-RF7416iO,Medicare,B-,2021-05-31 06:36:31
+61499cd9-851e-4e66-b262-f2e496273973,Johnny,Moore,1963-03-13,Unknown,Asian,1797 Ferguson Ways Suite 805,North Kaylastad,NC,22303,+1-590-996-5610x1438,384-51-7587,INS-bE9825gs,Self-Pay,AB+,2023-05-04 07:40:58
+0e27502d-b60b-4321-a301-aa669ad58a5d,Darren,Shepard,1941-12-10,M,White,4573 Bailey Court,Bowenmouth,PA,42301,440-410-5123,339-72-6986,INS-lO7362QB,Humana,A+,2022-12-28 14:27:06
+ca613a2b-8c82-4a3b-9e38-9aec7acce8e6,Jo,Ware,1934-03-26,M,Asian,660 Jamie Terrace Apt. 918,West Mark,NY,60473,347-785-9696,361-59-2827,INS-Ri4991uh,Humana,B+,2020-04-26 23:28:31
+28af6e57-d451-48e7-bcbc-398995ad4a17,Daryl,Brooks,1971-10-27,Unknown,Hispanic,669 Bailey Manors,South Cynthia,NC,91390,+1-228-927-4225x7905,140-25-6291,INS-RF8876AT,Medicaid,A+,2023-10-24 12:54:03
+3715a8ce-86a2-441e-93df-610cd6430b5a,Gary,Cunningham,1996-10-08,M,White,0438 Jackson Mount,Dunnville,NY,75567,848-358-0783,754-84-4056,INS-wf4074Ch,BlueCross,AB-,2020-04-16 20:53:18
+7a290ca4-bc46-4601-990b-306de8a35475,Lisa,Matthews,1958-10-28,Unknown,Other,962 Kristen Via Apt. 095,Candiceburgh,NY,42922,001-444-594-8126x042,150-92-5278,INS-KO3672rO,Medicaid,B+,2023-04-23 10:39:14
+0acf4e57-4356-47e9-88ab-dd3b8d32b0a6,Shannon,Schultz,1981-04-26,M,Asian,8457 Murphy Alley,Lake Teresastad,OH,08801,+1-763-463-7454,580-63-5632,INS-bh0017kC,BlueCross,AB-,2024-01-11 05:51:02
+d1a53f12-8b58-45a4-9823-626e9b7bc9b6,Victoria,Patterson,1930-05-08,M,Black,424 Diamond Glen,West Elizabethburgh,CA,07288,(943)261-1037x1293,009-90-5630,INS-eo1627yf,Medicare,O+,2018-01-01 23:58:42
+b31ca07f-3122-4096-845f-3751b0a16e0c,Lawrence,Ibarra,1944-04-21,Unknown,Black,2218 Chelsey Expressway,Bellborough,FL,82824,001-826-797-3112x1965,811-18-4060,INS-MM4138UM,UnitedHealth,B+,2021-02-08 23:24:06
+f33bc4b1-7bc1-42dd-999b-8b319b563557,Anthony,Boone,2024-03-25,F,White,89836 Lucas Tunnel Apt. 761,South Danielle,NY,09808,305.252.6965x82710,269-28-0653,INS-OT0684GX,Medicare,O+,2023-04-30 22:38:24
+165f185c-301f-4515-926b-0f32274793f6,Jacqueline,Miller,1987-11-28,Unknown,Black,1418 Terri Drives,Peterland,IL,41155,001-663-403-1617x990,123-02-2249,INS-HH0275YU,UnitedHealth,A-,2020-09-02 10:38:27
+bba4670d-dfc8-45a6-9db6-c42a1d99af9f,Nathan,Brady,1952-12-24,F,White,105 Nelson Circles Suite 917,Dixonton,GA,65985,001-225-224-1913,880-02-4007,INS-jl0756cJ,Cigna,B-,2023-05-25 09:48:54
+82cbd346-aa2d-4bb1-b3cf-8a437a2d2343,Marc,Butler,1960-10-24,F,Asian,1951 Harry Unions Apt. 617,Kiaraport,IL,43400,587-905-3494,378-76-8084,INS-aA3832bo,Cigna,B-,2025-06-22 14:00:17
+2c9e46ec-c5eb-49df-b7d3-58735c97c894,Cynthia,Steele,1977-05-28,M,Black,0641 Alyssa Freeway,Vasquezton,PA,19162,001-441-803-8657x191,077-76-9304,INS-sq0623uZ,Medicare,AB+,2022-12-12 06:16:51
+30385639-3a17-4c48-a5c2-488af3ceb040,Marie,Nguyen,2025-08-17,M,Asian,3132 Eric Expressway Suite 756,New Michaelborough,OH,59734,574-711-2490x3521,406-66-0803,INS-zC4420JV,Medicaid,AB-,2025-08-14 20:54:17
+9edda751-4daf-4604-91d3-00c5abe5c56f,Cody,Garcia,1964-04-06,M,White,00323 Watson Roads,New Brendaland,IL,03358,237-421-5107,588-56-6472,INS-lw7066nl,UnitedHealth,AB+,2020-12-09 05:11:06
+7abdde3b-9898-4ef7-8b15-8e6ca5e6a67a,Sean,Hernandez,1968-05-06,M,White,476 Brown Harbors,Taylorborough,MI,84734,638.406.5787x59856,027-41-9784,INS-ZE3040Hw,Medicaid,AB-,2026-03-13 07:40:13
+811eb290-586f-4826-90a5-868f6e05df06,Terri,Garcia,1961-12-08,Unknown,Asian,8039 Kelly Villages,East Joel,PA,42182,001-459-905-9929x3784,039-12-0921,INS-HE3930av,Aetna,O+,2019-09-09 09:28:37
+592d2dee-2e1b-4d32-a8af-113fe93ad06c,Matthew,Thompson,1948-01-07,Unknown,Black,02921 Yu Landing Suite 915,Marcusburgh,IL,96491,(475)228-9539x26442,719-74-6416,INS-uZ9029No,BlueCross,O+,2025-11-18 17:53:49
+8a87d72b-f0e3-4e89-8023-64e7f7e53e49,Sharon,Taylor,1944-06-05,M,Other,55215 Smith Fords,Lake Carlos,NC,34141,800-767-6267,560-49-1662,INS-Ce7932Zc,Cigna,AB-,2021-04-12 00:53:28
+f100e185-aca1-4866-9bd3-af80e1f0c09c,Lucas,Lynn,1932-12-28,F,White,2621 Matthew Ridges,Bushchester,OH,86174,(896)620-1533,677-37-4873,INS-KJ3106Fj,Medicare,A-,2017-03-10 05:17:03
+623c8f21-ac69-46e9-89a5-50c642c5c0e4,Adam,Miller,1979-05-14,Unknown,Asian,10324 Thomas Crescent Suite 677,Christopherside,NC,51294,(956)652-7047,232-35-9245,INS-Qw0211ZI,Humana,O+,2023-04-21 23:05:40
+33312c49-7e54-47e3-ae36-c28b0e0ae32b,Jeremy,Brown,2010-07-09,F,Hispanic,687 Thomas Common Suite 089,North Stacy,IL,59357,(523)432-0616,855-77-4226,INS-Jz5116Ju,UnitedHealth,B-,2020-12-16 18:58:59
+ede33f03-0ea9-4001-9261-cae1e43191d2,Stephen,Marks,2000-12-26,F,Hispanic,62299 Sara Port Apt. 485,Bakerfort,NY,75477,+1-770-524-6299x606,051-96-7786,INS-Yt4505tr,Humana,O+,2024-08-16 08:30:06
+db40d296-ddd0-4c86-90da-0101131d1028,Gail,Compton,2025-01-03,Unknown,White,47546 Jacob Forest,Figueroahaven,IL,49510,2824148628,198-26-0945,INS-xT3070mr,Humana,B-,2022-07-12 09:33:06
+75469cb0-60ae-4cc6-a62b-f9447c3e9a0f,William,Reid,1993-06-09,F,Other,035 Wheeler Fall,Matthewsstad,MI,45622,(541)540-6029,663-29-3388,INS-XX4680Ra,Medicare,O-,2024-04-29 11:25:49
+765ca306-c65f-45e4-bbe8-20702207719c,Deborah,Burke,1948-04-07,F,Hispanic,49446 York Mount,Jefferyport,FL,89262,996.391.0858x99441,345-36-5328,INS-jH4443Wp,Self-Pay,B+,2017-03-24 07:47:01
+d5d83982-b158-474e-8896-e728d56b1dc6,Richard,Flores,2011-12-03,Unknown,White,074 Meadows Lodge,Doyleshire,IL,93309,001-435-438-7584,301-13-7714,INS-Rv2482Pf,Medicare,A-,2020-01-16 13:46:36
+d6c88b7f-3e1d-4e89-b2f1-303d8dd1ca1e,Jeffrey,Savage,1978-08-12,M,Asian,5494 York Mountains Apt. 999,South Pamelahaven,FL,16205,+1-768-446-0223x56972,798-11-7989,INS-aC5250rn,Cigna,B+,2019-02-17 05:14:38
+afe594ab-85c2-43de-95ac-fdf3ad3065a8,Kathy,Burns,2008-09-08,M,White,96666 Reyes Camp,Lake Nathan,FL,02346,683-400-3354x21689,067-06-4886,INS-Hv4789BR,Self-Pay,A-,2018-07-15 21:03:27
+44af5223-a37e-42d7-9a59-38dc8c5e1d31,Wendy,Henry,1976-11-26,F,Hispanic,60332 Jessica Radial,North Michael,MI,85768,2642890901,707-15-6829,INS-qE7618Sj,Cigna,O+,2019-10-04 10:33:13
+1de90f30-2620-4b61-adc2-911d09ca646b,Gina,Smith,2024-11-15,F,Hispanic,184 Robert Cove Apt. 411,Gonzalezborough,FL,34972,235.364.2087x37530,114-74-8096,INS-UU2181gq,UnitedHealth,A+,2020-03-11 22:03:05
+d86c92b1-2c40-4227-8cbd-1e39a9983455,Vanessa,Phillips,1992-06-03,M,Hispanic,12045 Simmons Crescent Apt. 002,West Michael,FL,57873,+1-941-855-2166x746,665-22-1853,INS-AL2021EZ,UnitedHealth,O-,2025-12-09 19:55:31
+4c779435-9e76-48af-a6dc-784b266ea17f,Samuel,Carr,2022-08-03,M,Other,027 Rodriguez Loop Suite 014,Alexanderhaven,FL,97969,001-593-958-8916,355-85-6306,INS-aP2890kG,Aetna,O-,2024-03-30 14:22:11
+2e3d2aaa-10b7-425d-8f31-f33e564d40af,Molly,Jones,1997-09-28,M,Hispanic,3540 Andrea Lane Suite 317,Solismouth,NC,12037,375.617.0166x0880,521-72-3390,INS-oD7550vJ,Medicare,O-,2024-04-23 11:44:22
+c5a2e1c5-75ce-4c70-9ac9-6a1443e206f2,Michael,Chavez,2019-09-12,Unknown,Other,305 Gallegos Union,Amystad,PA,92526,502-572-6149,124-51-3533,INS-WA7351cO,Self-Pay,B+,2018-05-11 04:42:30
+909297e7-4a3b-430f-aa22-af89e097179f,Stephen,Lawrence,1991-07-28,Unknown,Hispanic,0808 Roberson Orchard,Lake Beth,GA,96248,(516)699-5866,408-44-4820,INS-MS7226VG,Humana,B-,2021-05-06 22:05:18
+9eeb23fc-913f-4fd9-b9db-14cd75faa7c6,Amy,Edwards,2025-09-24,Unknown,Asian,39452 William Square,Jenniferstad,NC,74200,299.268.4608x1062,205-35-2637,INS-SY4420sn,Self-Pay,B-,2025-06-20 06:21:44
+06622262-252c-48d8-a8f8-588bd19f168a,Michael,Chavez,1934-08-27,F,Hispanic,863 Schwartz Causeway,Hughesmouth,CA,72869,5045397359,302-58-2907,INS-hy1228cB,Humana,B-,2021-01-03 21:09:57
+801c0608-d6cb-40f4-9956-08dea202b27e,Joseph,Martin,2006-01-04,F,Asian,57202 Carlson Trail Suite 798,Charlesmouth,OH,69365,828.318.2688,358-29-3496,INS-nW5554NH,Aetna,B+,2024-05-04 04:46:02
+87c3eda8-6148-4b1e-8b95-3430cecb688d,Madison,Zavala,2006-08-28,M,Black,57399 Susan Springs,Patrickville,PA,51078,584-708-5887x704,527-11-1573,INS-Oe2880nQ,UnitedHealth,B-,2019-11-21 03:54:38
+7d2ac6b9-754c-439e-aca0-2a5ecabb4684,Roger,Garcia,2023-07-17,M,Hispanic,120 Love Camp Apt. 102,Angelashire,PA,30338,366-276-6506x180,718-10-5861,INS-Mf8144sW,Medicare,O-,2023-09-16 03:55:44
+7fccb1bb-1727-4cca-8d8a-29200b7ed22c,Randall,Guerrero,1982-03-03,F,White,83268 Choi Divide Suite 508,North Bobby,FL,75568,+1-468-481-4353x682,227-79-4141,INS-dW3129JD,Medicaid,O+,2025-08-12 00:51:34
+797977bc-a7f9-4795-b4ac-0d017dc609e3,Kelly,Jones,1940-03-19,Unknown,White,97552 Craig River,East Louismouth,MI,43537,+1-549-529-9556x205,730-95-7146,INS-ED4525Cw,Medicaid,O-,2021-06-16 16:11:12
+7f20018f-7786-4c8b-8191-8f979a07883d,Andrea,Thompson,1996-07-14,M,Asian,2834 Jessica Brook,Port Bonniefurt,IL,77838,808.548.8725,791-76-4768,INS-fz2788xG,Medicaid,O+,2016-06-10 08:28:37
+8dcdc1ca-85af-494d-9a22-5ee060e53822,John,Maynard,2020-06-12,Unknown,Other,272 Ashley Port,Lake Jessica,MI,47529,5377314530,398-61-7449,INS-TH0051Or,Cigna,O-,2020-09-27 17:28:10
+84635a8e-7c0c-4fd6-9fa7-cfdd96124111,Amy,Thompson,2009-01-03,M,Asian,9184 Kaufman Fork Suite 557,Eatontown,PA,66277,(472)431-8432,371-78-1939,INS-ER3651EE,Self-Pay,A+,2019-11-05 19:22:55
+fb3a0fbe-d1bd-4b71-b044-ac6a80a6a726,Evan,Whitaker,2010-08-31,F,Asian,02992 Crystal Canyon,North Gabriel,PA,24098,869.490.4137x97723,814-75-2980,INS-UR9842vD,UnitedHealth,O-,2017-06-07 07:31:43
+358d23b0-6101-4d83-9e37-44eb20f100f4,Nicholas,Anderson,1961-07-15,M,Other,88629 Gregory Ridges,Port Amandaville,NC,12715,929.880.6865x0863,359-76-9440,INS-EX1624of,BlueCross,O+,2021-01-29 16:43:06
+e1776d4d-3505-416d-b205-28cd9daab2e8,Nancy,Ortiz,2011-09-08,Unknown,Other,09818 Nicholas Ford,Robertville,TX,20788,(994)448-6959x46368,380-72-9092,INS-wX7449Tz,Aetna,O+,2018-08-11 11:12:03
+365e987b-bdd2-41a4-a122-b2a48e5048bc,David,Hall,2019-12-27,M,Hispanic,38658 Eugene Roads,Port Christopherberg,NY,62323,+1-661-214-3519x066,793-23-8100,INS-sm7038cY,BlueCross,AB+,2024-12-11 23:20:40
+1eec0588-ee49-42be-ace0-49f32c9ab502,Holly,Gilbert,2000-06-17,F,Asian,3021 Chan Knoll,Sullivanborough,FL,68362,6115848955,621-25-7451,INS-lA6904Gg,Self-Pay,AB-,2025-10-06 17:58:53
+8450d99a-5f77-43c3-9d0d-f689fc15dfe7,Wesley,Morgan,1940-02-10,F,Hispanic,489 Benson Lane,Carrillomouth,IL,60643,+1-279-607-1416x33565,255-37-1524,INS-lE6518uw,Medicaid,AB+,2019-12-24 15:52:29
+41e36e3e-8e41-49ab-9920-e98838714e15,Joseph,Valentine,2008-05-04,M,Hispanic,3334 Jermaine Village,Port Christine,TX,20947,001-611-917-9080x75957,188-98-8375,INS-id4639HZ,BlueCross,AB-,2023-06-18 01:29:26
+297aa58e-4f2f-4b59-aef8-32482b3b7cdc,Sheila,Johnson,1995-05-11,M,White,2718 Stewart Branch Apt. 369,West Michaelview,TX,25031,+1-943-847-9552,216-54-6100,INS-lK5647iK,BlueCross,B-,2020-02-24 19:16:30
+81584314-0575-4a95-81c5-49a6a344f71c,Jennifer,Brock,1943-11-07,M,White,3227 Gregory Parks Apt. 885,Evansside,MI,74928,9617203471,267-47-5904,INS-bA8845hw,UnitedHealth,B-,2019-08-24 19:42:55
+aa59dc96-4eca-4b87-adb7-efe91594555d,Barbara,Banks,2008-10-07,M,Hispanic,5587 Preston Light,Stevenberg,CA,22465,+1-656-699-6112x5355,620-83-6480,INS-HC4759Ak,Cigna,O-,2019-05-23 04:01:41
+84a89365-7a5e-40e6-8f62-38ab94d6aece,David,Young,1933-05-27,Unknown,Asian,132 Garcia Circles Suite 800,Warrenland,OH,14123,492-216-4334x722,036-85-5847,INS-rJ5778Ci,UnitedHealth,A-,2025-06-08 13:19:23
+136971cb-8151-4f6c-87ec-25aff3c9018b,Brittany,Bryant,1954-05-09,M,Asian,845 Fernandez Valley Apt. 745,Greenport,CA,01884,9826547807,010-99-7053,INS-Jx4930mA,BlueCross,AB+,2025-10-18 16:51:21
+4e16b52a-6782-4ab7-9c50-419e1929a855,Ralph,Martin,1989-09-30,Unknown,Hispanic,3416 Zachary Union Suite 484,Lopezland,PA,24409,(541)779-7497,020-20-0814,INS-sr8021iT,Cigna,A-,2023-09-20 18:21:28
+e0b1de7d-402e-4df2-b3c5-d861669fedb5,Jesse,Hernandez,1931-05-17,Unknown,Black,56475 Terry Bypass Suite 120,Kimberlyland,CA,71698,923.346.0136x7303,534-86-3416,INS-kO7645Uc,Humana,A-,2025-08-11 12:13:59
+aba62aa8-4931-4050-a127-3dfbc97ea696,David,Olson,2001-02-26,Unknown,White,50313 Nguyen Expressway Suite 916,North Tanya,OH,76663,001-279-225-1327x195,365-83-2522,INS-ou8127JY,Medicaid,AB-,2022-03-03 16:42:21
+1a90d1ca-5dd2-4112-966e-7b5f75a9982c,Jessica,Smith,1989-12-19,M,Other,2407 Hansen Plains Suite 392,Mariomouth,OH,36588,+1-282-818-2744x857,752-24-0307,INS-uU9593eQ,BlueCross,O+,2025-06-06 11:57:09
+bb3733c5-a39f-4531-94b3-4dd8c9396e9e,James,Vega,1982-12-30,F,White,456 Rodriguez Pike,North Maryberg,PA,23915,9316731096,051-47-3617,INS-PF9103fD,Medicare,O-,2017-04-17 17:11:57
+246194bb-6bf3-4bd1-8fed-c7b32444815b,Angela,Hurley,1979-05-19,Unknown,Black,0948 Jessica Village Suite 138,North Jessicaside,PA,51007,338.739.2886,691-59-6998,INS-zG1228vQ,UnitedHealth,AB+,2018-12-14 09:54:48
+936672ed-e558-42f0-894f-ef2c79913820,Yesenia,Ramos,2002-12-03,Unknown,Other,8556 Mckenzie Islands Apt. 983,Cannonview,GA,47688,676.500.4908x240,220-41-0356,INS-KK4888jg,Self-Pay,O+,2016-11-26 00:34:35
+02c3549b-a9ea-4c3c-a429-b5f06d1960d6,Michael,Taylor,1992-11-30,Unknown,Other,334 Davis Locks Apt. 157,South Margaret,IL,90887,001-891-894-0961x055,889-16-3715,INS-tH9060cu,Medicare,B-,2025-06-12 13:05:17
+9c8c9e26-07c8-401c-90c0-332844eba9ed,Edward,Shaw,2007-02-21,M,Asian,06799 Jeffrey Highway,Hernandezmouth,GA,11320,590.986.4168x6227,405-84-9361,INS-pp3898er,Cigna,O-,2023-07-30 20:58:54
+1441f7e6-b5c5-4877-88ee-340b9fd3df11,Gail,Johnston,1974-04-10,Unknown,Other,665 Lee Key,Port Kevinstad,PA,81270,592.470.3352x110,890-37-0226,INS-Eb5147vn,Medicare,A+,2025-05-31 14:07:13
+d9f0e0a7-0a50-441a-b444-b769b414dc30,James,Mills,1959-02-04,F,Asian,792 Nicholas Shore Apt. 420,Jamesview,NY,07458,301.764.5104x636,497-77-8710,INS-DJ1238Tb,Self-Pay,B-,2016-12-08 13:14:20
+29c12744-a5ee-42da-865c-04b0034b3fec,Sandra,Torres,1963-12-05,F,Asian,2055 Garrett Freeway Suite 046,New Stacybury,OH,20385,762-916-8936x39264,556-17-3388,INS-it2983ST,Humana,AB+,2025-03-04 08:27:58
+dc9bd70d-3f40-4ee9-9e6f-2a041e04542f,Russell,Stout,1948-08-31,Unknown,White,925 Angela Stravenue,East Lonnieberg,NC,95800,3564647423,190-04-4373,INS-Mo9993oR,Cigna,A-,2016-09-14 14:55:56
+ee6e7953-73ac-4f43-9b3e-b821c0a7bfdf,Christopher,Chan,1979-02-25,M,Hispanic,975 Melissa Overpass,Taylorborough,GA,30159,4609463331,888-79-8028,INS-zX5736cM,Cigna,O-,2022-09-25 02:26:19
+0310c2ca-247e-454a-acc5-99e5c29cbdfb,Phillip,Crosby,1972-11-04,Unknown,Hispanic,177 Natalie Gardens,Terrellton,GA,73599,(280)434-7644x7264,475-83-7401,INS-XL1812SI,BlueCross,A-,2018-07-25 07:19:30
+03bb4da9-3491-42f3-b295-697f10c9c7e4,Robert,Hayes,1983-10-03,F,Black,9371 Nguyen Run,Lake Jessica,PA,12453,875-818-6892,045-99-2800,INS-jl5922XT,Cigna,AB+,2017-02-18 08:54:22
+79db8338-2bdb-4251-af2e-29019b15f304,Kyle,Cross,1987-05-13,Unknown,Other,2123 Cindy Glen Apt. 777,New Nicolebury,OH,28927,001-577-667-1990,635-81-9135,INS-dP3022wc,Self-Pay,AB-,2018-09-25 20:44:04
+663f6e9b-ddee-48e0-a9d3-1980b72413aa,Elizabeth,Massey,1934-09-03,F,Other,1016 Evan Haven Apt. 795,North Kaylamouth,OH,48810,(516)581-4721x4586,627-08-1791,INS-US9817MY,Medicare,O-,2021-02-23 01:24:23
+8fb9cff4-7dd8-4b19-847d-cd98b0603a33,Chelsea,Stewart,1988-05-18,F,Asian,99787 Morton Ridge Apt. 430,North Stevenville,IL,97162,296.560.5583,707-37-4169,INS-Ju1448Xa,Cigna,A-,2018-03-13 21:29:56
+9b2534ae-b6af-4249-8b6a-98776b0b6b41,Mathew,Foster,2023-08-08,Unknown,Black,35577 Debbie Orchard,Lake Steven,OH,70882,776-308-4958x80395,153-36-0511,INS-KM5682yl,Aetna,B+,2018-04-01 14:03:56
+3da672de-1aea-4763-804a-a9a8a5961c25,Janet,Edwards,1972-03-19,M,Black,6173 Hayes Hollow,New Kevin,GA,15211,(903)617-8078x235,795-42-2348,INS-Uc1823Dy,Humana,AB+,2025-02-23 06:38:42
+9ae54361-b023-4aeb-ab92-52bbf7545f88,Adam,Randolph,1946-01-09,M,Black,7018 Johnson Trace,Danielleborough,IL,42559,434.448.5714,281-15-0250,INS-nI9881wJ,Cigna,AB-,2021-09-05 12:50:36
+cb429f4e-2d3b-4f61-823a-42f0da89b252,Donald,Bush,1967-02-24,M,Asian,321 Austin Junction Suite 020,Bergerton,TX,14385,(501)366-2997x9545,774-98-7630,INS-gD9217tR,UnitedHealth,AB+,2024-03-06 09:53:48
+1b688a0e-71f8-449e-a67b-8c012cc095e7,Jesse,Walker,1994-04-19,M,White,6255 Freeman Circles Suite 157,Singletonport,NC,46194,+1-992-881-6158x148,605-53-3909,INS-Ey9382ev,Humana,B+,2019-10-21 11:39:13
+4238b4a7-85cf-49a2-ae05-6b968e8be7bb,Brittany,Mueller,2024-09-19,Unknown,Hispanic,583 Elaine Club Suite 199,Nguyenville,CA,58856,(946)219-1965,093-28-2277,INS-CI9022sy,BlueCross,AB+,2026-02-03 16:18:39
+1b74a93b-8280-4d2d-9995-b461a5290e5a,James,Maldonado,1991-02-12,F,Hispanic,9465 Brandi Ridge Suite 240,Rachelton,GA,00611,001-885-814-0369x656,446-70-3461,INS-Jy2723xA,Medicare,B+,2018-11-20 02:56:15
+3c82afcb-e4bb-45cb-a9f2-89a61dba40f6,Whitney,Santiago,1969-07-08,M,Asian,10276 Christopher Row,Daltonchester,GA,82191,(478)868-7653,620-01-9469,INS-AI7384Kx,Aetna,A-,2016-10-30 11:07:36
+3f30ef88-f6f8-4c2b-a316-cd927bf8ab5c,Ashley,Bush,1935-05-31,F,Hispanic,712 Marshall Common,East Thomasland,CA,90163,+1-789-849-0580x7787,362-38-4739,INS-UY2094Kq,BlueCross,B+,2017-04-22 04:12:40
+4d250597-129b-4b84-96c2-3dbcd1c1d767,Thomas,Jackson,2015-11-27,M,Other,490 Washington Crossroad,Port Kristenview,IL,17873,+1-444-640-1929x275,802-90-3870,INS-vf7280jM,Aetna,B-,2018-11-19 09:29:22
+334b7e67-a439-4025-9b02-629ddb6f1ec2,Karen,Gutierrez,1997-10-03,M,Other,72395 Dawn Throughway Apt. 027,Alvarezfort,PA,98300,001-783-266-7428x60476,100-69-5798,INS-rr6945Zg,Cigna,O+,2020-08-09 04:34:32
+e51f61c9-9c26-486f-ae80-132dede89a59,Breanna,Murray,2019-04-25,F,Hispanic,938 Byrd Falls,Amytown,IL,09407,6615817534,035-04-1507,INS-Oh0939Th,Medicaid,AB+,2017-09-24 07:48:01
+5e8e70af-71fe-4110-a436-7736d558e1d8,David,Douglas,2012-07-22,Unknown,Other,24471 Livingston Harbor,Schwartzmouth,TX,34230,(614)406-6504,452-09-8057,INS-PF3962gj,Aetna,B-,2025-06-16 21:50:28
+4aada55b-fc9c-45b7-a623-87c02f8a8355,Jeffery,Schneider,1988-12-13,Unknown,Black,410 Chad Stream Suite 707,Lake Danielle,IL,05460,+1-564-225-6908x77661,394-89-7899,INS-vR1985tz,Aetna,B+,2017-03-14 12:09:24
+5259aab3-bba5-4e01-b493-46f80b4ad0f7,Wendy,Holland,2016-04-23,M,Black,517 Holland Fall Apt. 634,Mosleystad,NC,64267,973-820-3093,065-70-5042,INS-cv7870dv,Aetna,B+,2016-12-27 13:53:49
+cf93e438-adba-493b-a77a-2109e2950f76,David,Roman,1985-06-12,M,Hispanic,829 Sandy Camp Apt. 707,East Jacquelineberg,GA,02383,(304)317-9291,510-77-3614,INS-ZV1365Rz,Self-Pay,AB+,2021-10-11 06:21:03
+20720cf9-2d41-456f-bce1-b168b34e851a,Theresa,Johnston,1946-09-13,M,Black,3092 Brown Harbor,Port Robert,IL,91765,(282)973-9021x962,083-01-0119,INS-AS2194ZY,Humana,O-,2024-05-11 09:03:20
+09a8c467-4585-4bb9-b080-564a839eb49d,David,Thomas,2024-06-27,M,Black,763 Cheryl Camp Apt. 791,Michaeltown,IL,73601,531.981.9588,789-81-3410,INS-Yj4031RE,Cigna,O+,2024-09-21 23:43:18
+c8009318-405d-4473-8446-08bb0b1d48f7,Ernest,Livingston,1954-04-04,M,Other,543 King Ridges,Williamston,FL,70933,(720)878-1137,204-96-5337,INS-gp3153VA,UnitedHealth,AB+,2019-08-31 00:30:22
+693109ea-da6b-475f-ab98-23e3f49b082a,Patricia,Jones,1981-05-14,M,White,62397 Paul Dale Suite 354,West David,TX,91230,001-704-521-7762,303-78-2569,INS-of9298AH,UnitedHealth,AB+,2024-08-01 09:43:13
+ecf1b84f-22ed-412a-af5b-d34a80a2e3d8,Brittany,Hood,1959-09-19,Unknown,Other,63356 Patricia Ramp Apt. 906,North Vickiehaven,IL,04907,(786)671-7731x80632,245-83-1487,INS-TD0742KV,Self-Pay,A-,2026-03-11 06:38:11
+49d0c2f3-caeb-4425-b804-5b53730f988a,Tiffany,Ford,1933-07-31,F,Asian,625 Padilla Alley,South Patriciamouth,PA,70089,7462498931,528-87-5964,INS-DN0165cx,Humana,O-,2022-06-30 11:22:51
+c70cf04d-8227-4237-b4bf-97f56e016969,Deborah,Bush,1954-02-10,F,White,53817 Karen Trace,West Michael,MI,35544,664.901.5577x88178,636-48-1076,INS-zl3711se,BlueCross,O+,2018-02-14 02:36:38
+2ed3de48-fdb7-47d6-95bc-e7e67b7d19da,Joshua,Terry,1952-09-06,Unknown,Asian,38046 Thomas Manor Suite 043,North Monicabury,MI,68608,+1-456-695-5798x8774,176-34-3716,INS-jw7540sD,Humana,A+,2019-02-03 06:47:24
+460be155-b068-49f0-9e39-260239ade940,Sandra,Joseph,2014-06-15,M,Black,22231 Victoria Ports Apt. 745,East Anna,MI,05047,+1-455-925-7828x41067,328-20-0071,INS-Es8854WK,BlueCross,AB+,2018-10-06 11:36:31
+0eff0582-b174-461c-8565-09c561e92be6,Jessica,Nielsen,2007-03-09,Unknown,White,170 Erica Crescent Suite 069,South Michael,NY,43278,3939983430,694-86-1432,INS-uM8637MG,Self-Pay,O-,2017-03-19 19:21:25
+aa22b486-71c7-404b-b2f7-16caa67c995b,Michael,Hernandez,2021-01-02,F,Black,6504 Bell Mission Apt. 376,Robertschester,MI,96000,(329)291-2347x85196,420-82-4479,INS-TK6287Wi,Medicaid,O-,2019-08-26 16:22:22
+1fab01de-f2a9-4080-ac8a-1eda2a13e829,Marisa,Roberts,1955-07-29,M,Hispanic,49478 Walker Turnpike Apt. 244,Martinezport,OH,55178,(773)901-4719,580-56-4226,INS-UK7158bq,Medicaid,AB-,2019-01-12 10:28:14
+7fc8777e-b692-4a19-ad62-64586a460958,Brian,Flores,2009-06-03,F,White,2045 Fields Knolls,West Kellyland,NY,67854,621.792.8554,099-69-9504,INS-Hs5202xX,Medicare,O+,2024-07-05 14:18:52
+dbe6b573-3d80-4f0a-8a4d-a555a19ccb2b,Matthew,Bartlett,1986-05-01,Unknown,Hispanic,28338 Robert Club,Port Davidtown,IL,63352,(545)427-9852x401,878-89-2333,INS-if3423BS,Medicaid,A+,2018-02-28 18:09:08
+0de92e4d-7a75-422f-ac8f-cdd05110e99e,Andrew,Washington,1940-11-02,F,White,31089 Taylor Glen Apt. 140,Port Davidborough,OH,77519,725.401.2495,876-65-3963,INS-LW8911aH,Humana,AB-,2019-12-14 22:01:45
+a63060b4-54bb-4cc5-95d5-df47fd1f534c,Tamara,Jackson,1956-04-29,M,Hispanic,138 Richardson Radial,South Emily,NC,14568,(756)363-8361,478-15-8516,INS-JU2754cf,BlueCross,O-,2021-11-04 09:02:51
+53a4dd1e-b51f-4007-92c3-57ca43c6acbd,Darrell,Campbell,1997-06-14,F,White,738 Roberts Walk Suite 317,Harryfort,FL,88593,367-481-1266,067-47-3262,INS-ho5396BU,Medicare,O-,2024-10-01 21:37:32
+cd2b58d6-479a-481c-9cb8-9f278f3e3160,Kathy,Miranda,1968-03-01,Unknown,Hispanic,657 Archer Pass Suite 271,West Tracybury,TX,82862,(701)401-7026,311-80-1579,INS-ms1877QF,Cigna,AB+,2024-08-07 20:21:48
+7a02d4f6-d823-4730-80f1-265479e10b9e,Jose,Cooper,1998-12-17,Unknown,Black,61675 Ramos Camp,East Angelaport,IL,93045,(976)924-6719,488-72-2561,INS-FL8064yN,Self-Pay,O-,2022-04-06 12:52:38
+b9964d84-3dc9-4b8a-83f5-fffa26f852aa,Luke,Johnson,1968-12-20,M,White,55905 Davis Key,Robertton,MI,87171,733.449.1141,021-69-5344,INS-GA0769rb,Cigna,B+,2024-04-02 03:39:25
+9314bd06-349c-4604-b21e-118f06bae093,Andrew,Stewart,2010-04-14,F,Other,9171 Matthew Parkway Suite 294,Taraborough,TX,65637,+1-318-734-4049x6391,280-09-9281,INS-wY8763eP,Medicaid,A-,2021-05-25 03:37:12
+84acf6cd-6e4e-492d-82f3-636ccbf7c29f,Linda,Reynolds,1998-12-09,M,White,66498 Powers Plaza Apt. 082,Lewismouth,GA,35619,+1-689-869-0835x7232,421-41-1056,INS-Pk3644qR,Aetna,B+,2020-04-11 19:09:51
+200d9516-e9f3-4bf9-8d8c-6163a0c79e80,John,Hernandez,1985-06-30,F,Asian,47786 Lucas Camp,East Joseph,NC,04320,348-820-7001x594,373-86-1480,INS-KV6231Gh,Humana,O+,2025-02-20 20:53:03
+0e85a459-ad0c-4e01-b8dd-0ada290fe381,Maria,Herring,2020-08-28,F,Hispanic,1391 Murphy Prairie Suite 363,North Gregory,FL,36486,964.590.7851x586,285-19-5948,INS-PM7540cV,Self-Pay,B+,2017-03-11 06:15:43
+e176a9e6-6ba3-434e-b2e7-d62a7095dc46,Samantha,Powers,2024-04-05,F,Black,645 Amanda Freeway Suite 606,Kevinbury,MI,39484,927.856.0417,862-43-6921,INS-ew1248AM,UnitedHealth,A-,2025-07-31 00:00:36
+efd1dc65-ce7b-48f1-b76f-212fb67e59db,Shawn,Johnson,1974-09-24,F,Hispanic,272 Richard Road,Leeland,OH,15027,(438)629-6577,178-88-9717,INS-Ax5431lz,Humana,A+,2022-09-06 02:58:18
+610eec26-66b9-4a31-b5ff-e97f1d5e5929,Jeffrey,Vaughan,2007-11-21,F,Asian,73420 Williamson Rapid,Edwardstad,MI,22799,001-510-586-7713,883-35-4718,INS-nM7626ns,Self-Pay,B+,2019-06-26 04:48:49
+71f53118-e154-4999-b9ee-57aa47305d6a,Henry,Sparks,1987-03-12,F,Other,4397 Mike Spur,Millerfort,GA,17960,963-766-9411x80053,621-86-9802,INS-Ny0048tz,Medicare,AB-,2022-07-28 05:43:44
+633df477-e148-4449-a19e-af7351ceba16,Tammy,Hansen,1948-04-03,Unknown,Other,2875 Anderson Island,Thomasville,PA,41561,6277456449,447-22-5170,INS-dm7287jd,Self-Pay,AB-,2020-03-03 20:13:12
+dccb8737-2c45-4cd6-bea9-4b3c67c95eae,Barry,Green,1955-03-09,M,Black,1707 Zhang Points Suite 771,North Michael,MI,27204,822-384-9939x0892,253-99-8162,INS-RR1504hz,Medicaid,B-,2022-08-13 17:59:01
+1d6050c4-22c8-4cf1-84b0-80d2097e66b1,Sarah,Rodriguez,2010-08-08,F,White,01777 Wheeler Avenue Suite 097,Staceyshire,OH,17451,304.850.1896,262-23-3934,INS-ky6103Xz,Self-Pay,O+,2021-02-09 01:39:01
+c2056903-31f1-4923-a233-cac8df9b7395,Karen,Valdez,2018-05-03,F,Black,7649 Michael Court,Williamfort,GA,58886,(374)299-6165x9266,526-44-7595,INS-OP3278Hf,BlueCross,B+,2021-03-16 21:42:29
+6ceea176-eb31-4fd3-a217-ccca83a65996,Samuel,Solomon,1993-12-25,Unknown,Other,2243 Phillips Causeway Apt. 081,Gutierrezmouth,OH,87120,001-894-254-9180x1722,086-54-4877,INS-NZ5977qv,Aetna,O-,2019-06-12 16:59:10
+eccb2910-f705-4317-b33e-dd2c9feb73d1,Jacob,Burgess,1958-12-26,M,Other,168 Adam Crescent Apt. 277,Meltonfort,GA,40189,+1-595-264-1220x310,215-62-2379,INS-ft3683XD,BlueCross,B+,2018-10-13 04:59:37
+b89d0f67-d97f-4e2d-9e07-74600806fccf,Robert,Wilson,1994-10-08,F,Black,777 Michelle Prairie,East Kenneth,CA,51846,6502166799,500-52-7965,INS-oT8997dH,Self-Pay,AB+,2016-08-01 17:20:55
+7c6f8df5-5d88-4f16-8e84-28fafc943007,Barbara,Tran,1987-09-10,F,Other,671 Dean Rue Suite 760,West Jessica,PA,62005,(873)783-9597x246,816-61-2655,INS-QE9341il,Aetna,AB-,2019-08-28 02:10:28
+dd0e03ff-b317-4fce-b239-2e905fe11747,Catherine,Garcia,1951-07-14,Unknown,Other,4338 Yvette Knolls Suite 522,Port Brycechester,PA,15439,+1-431-383-7455x084,724-07-7174,INS-NY7119gJ,Medicare,O-,2016-12-22 07:52:02
+dd7f98cc-aecf-49c8-b7b5-35e7726500cd,Daniel,Soto,1999-04-21,Unknown,White,2478 Oconnor Courts,Lake Michael,MI,18559,437-360-3754,273-48-6800,INS-AY5328oi,Aetna,B-,2023-07-23 03:37:44
+1d93a822-ff94-4ff0-80a2-607c9b881b23,Samantha,Villanueva,1986-07-10,Unknown,Asian,72081 Matthew Locks Apt. 606,Lake Sandraberg,FL,75809,2846668455,541-79-2407,INS-NY6738NP,Aetna,O+,2023-10-13 22:11:45
+6aa9a523-bc3c-4b93-aec7-467f05255081,Michael,Cain,2025-03-08,M,White,41085 Hardy Streets Apt. 884,North William,GA,41428,752.600.8943x46810,643-65-5808,INS-tK1017Va,UnitedHealth,AB+,2023-12-21 07:08:00
+b7c085d6-8b73-40a9-bccb-d649896ee6e6,Tonya,Trujillo,1976-05-23,M,White,4492 Stone Gateway,West Zacharyborough,OH,47853,912.366.1106x273,379-87-8623,INS-Xz6988qL,BlueCross,AB+,2024-09-30 03:27:01
+73ef6c21-0aa5-4767-9ffc-345c24d797f4,Rodney,Alexander,2016-11-17,F,Asian,622 Todd Mount Apt. 881,South Thomas,PA,98345,(685)219-6115,536-20-1930,INS-sF5454bY,UnitedHealth,B-,2018-09-10 07:09:34
+9bb72b41-6d6c-43f4-ae6d-236affbced89,Kristen,Fisher,1949-08-08,Unknown,Hispanic,3270 Amy Cliff Apt. 679,Arielmouth,MI,49955,892.828.7772x5199,239-51-5555,INS-Pf8074kT,UnitedHealth,B+,2016-09-06 15:59:04
+c1125aab-19c8-4a60-9744-7047db07b89b,Crystal,Ingram,2008-02-09,M,White,181 Stephanie Plains Apt. 983,Shawtown,MI,16266,+1-282-904-3397x18956,883-03-5570,INS-Hu6260yq,Medicaid,B-,2017-10-23 03:34:32
+ab3ae49b-b4e3-4cfb-b77e-2ce342664bd9,Tina,Weaver,1945-11-11,F,Other,24124 Gregory Circle Suite 200,Petermouth,NY,19173,(854)361-0339x93788,276-08-5216,INS-Eb7861AO,Cigna,O-,2020-03-27 22:50:00
+c3ef0b75-9afe-4d88-b6c3-fdc23a0adaa5,Joseph,Richmond,1932-10-16,Unknown,Asian,82496 Miller Roads,Port Tammy,GA,49430,+1-923-686-8700,669-22-0009,INS-qR0749yw,Humana,A+,2019-11-18 13:07:36
+0e506540-3a69-4787-8498-967df9d15cc4,Mary,Campbell,2009-11-24,F,Asian,891 Davis Square,Port Donaldside,NC,37130,(739)285-5474x35537,709-18-0034,INS-Rl9700AJ,UnitedHealth,A-,2024-07-30 22:25:25
+dc8947ff-6a75-4347-a7ea-dd0629e8c42f,Amanda,Cobb,1983-09-19,F,Asian,071 Stanton Lane,Paultown,MI,16854,653.570.3045x319,240-64-5948,INS-na0479mO,Humana,O+,2022-12-31 17:35:03
+e259de2a-4167-4a62-813d-7823883008e7,Molly,Carroll,1945-05-11,Unknown,Asian,83999 Cameron Crossroad Apt. 249,New Jessica,GA,36457,208.794.8706,443-53-4490,INS-xH1877Wc,Humana,B-,2020-01-30 19:59:14
+6ee2834e-80c1-4e1d-9d7a-a2ed245b8299,Joshua,Fisher,1936-08-25,F,Hispanic,0635 Nicole Valley Apt. 361,East Frank,CA,41238,510-376-0954,485-31-5584,INS-eX0583MN,Cigna,O+,2023-09-21 11:11:12
+a40eec65-230e-4489-a7a6-51628b4f2ec6,Colleen,Riley,1943-04-12,Unknown,Asian,06512 Samantha Mills,West Cherylchester,MI,09124,808-504-6619,886-77-0174,INS-NN7676gv,Humana,AB+,2016-09-13 22:10:07
+6c389cf6-a8d7-4437-bd40-be95056941ad,Zachary,Matthews,1992-01-22,M,Hispanic,09193 Dana Glens,Robertmouth,IL,24870,720.602.4968,598-70-2386,INS-vs2749xa,BlueCross,A+,2025-01-25 07:03:20
+5d62f23b-9391-4955-9dc7-92edb1de37a0,Diane,Thomas,2010-01-27,Unknown,Hispanic,806 Gonzalez Flats,Port Casey,IL,25320,+1-977-295-9959x46521,508-29-0061,INS-np3379EV,Cigna,AB-,2021-11-25 12:02:48
+be8ed7bd-c7e5-4d84-82f2-f7fa10daf472,Jamie,Lopez,1981-06-02,M,Black,0150 Douglas Mill,Lake Brenda,MI,47675,7035342342,183-26-0353,INS-Ri2410yP,Humana,B+,2018-02-24 01:49:46
+91610272-7094-4672-9123-91cb5213e455,Sharon,Torres,1976-04-24,Unknown,White,5289 Johns Circles,East Nicoleberg,TX,25357,586.655.9630,809-20-5369,INS-GL3042Fn,Humana,O-,2017-08-24 09:19:36
+5af0917c-1e54-4e94-ba2a-079442e1fdf4,Krystal,Mendez,1994-04-25,M,Other,685 Stone Fall,Jenniferhaven,OH,91531,877.549.6903x3373,314-55-6179,INS-Jf9254iW,UnitedHealth,A-,2017-09-09 16:07:03
+49f9ecee-29b8-4fce-b5b5-144909de3d9c,Sean,Bell,1970-05-31,F,Asian,8956 Mcdonald Lodge,Lindamouth,PA,36286,(302)673-4151x4888,234-13-1943,INS-mv1508mR,UnitedHealth,B-,2021-11-11 08:57:04
+b166eeb5-b519-4dd2-9bec-09781007ba8f,Kevin,Ochoa,1964-04-14,M,Other,92840 Campbell Key Suite 690,Valdezberg,OH,52602,933.773.8987,811-11-5130,INS-CC3663Jb,Humana,B+,2022-08-20 20:16:13
+e6de3909-6b00-4ba7-9e5c-bf6aede91b73,Barbara,Anderson,1949-03-03,F,Hispanic,5536 Jennings Lodge,Marktown,IL,74894,8225599996,401-09-8758,INS-vK6371CO,Medicare,A-,2021-06-11 12:57:21
+97c45154-4a49-4e77-97c8-1b7fcd80a734,George,Leonard,1942-12-13,F,White,97023 Rhonda Lights,Jamieport,NY,86952,817.905.8025x66212,761-09-6374,INS-BT3234QE,Cigna,O+,2018-12-18 04:06:25
+bff7f4bf-3268-4d0e-a93f-167dd6d8dd4f,Barbara,Collins,2012-06-03,Unknown,Asian,743 Vickie Mission,Port Reginaldbury,CA,69426,497-877-9014x75469,256-23-7080,INS-gz7629Sc,Medicaid,A+,2020-05-03 22:52:41
+6cfc17fc-ba89-4051-8bc3-bca1a0ea3c28,Joshua,Fuller,1951-10-02,F,Other,137 Riddle Plaza Apt. 511,Robertburgh,CA,33631,880.570.1765,407-05-0176,INS-QV4125DF,Self-Pay,AB-,2024-02-10 07:28:26
+60e8f1eb-becb-4409-a4ca-4feccb4e0534,Christopher,Sandoval,1939-07-19,Unknown,Asian,74220 Gregory Crossing Suite 210,Ericstad,MI,23823,608.937.0816,054-77-0077,INS-xp0633mf,Medicaid,AB-,2016-07-14 04:45:27
+3e95b366-251d-43a8-b07d-c99a0ea7f28d,Anthony,Smith,1987-08-25,M,Black,131 Jennifer Cape,Huntmouth,GA,42795,+1-539-338-6613,366-42-2845,INS-yn0650Do,BlueCross,AB-,2017-05-20 17:59:34
+335ffbd8-dfa6-45cc-8677-e6c4dfe57c2a,Lisa,Santos,2019-10-22,Unknown,Black,13649 Bird Cove Apt. 419,Tinafurt,CA,89354,001-525-225-7150x99768,239-03-2033,INS-Nf4363di,Self-Pay,AB+,2022-08-19 17:56:32
+ac44b108-fda8-4f2e-9166-fdf8581c4a9a,Kenneth,Hernandez,1998-02-18,Unknown,Hispanic,039 Stevenson Isle,West Lonnie,CA,05692,864.703.5533x80339,188-57-0100,INS-dO1713jn,UnitedHealth,A+,2018-05-25 17:56:40
+9354865d-4c77-4bea-890f-d1f9b12c0d4a,Glenn,Dunn,1942-09-30,M,Asian,81674 Jennifer Gardens,Thompsonbury,GA,40229,897-834-7156x6277,779-20-7898,INS-Wt0661MI,Aetna,A-,2018-11-10 23:55:34
+79f4550b-3375-4517-ac5e-fed7151c8256,Jessica,Scott,2005-07-02,M,Other,7468 Jones Dale Suite 323,North Michellestad,NY,64916,(466)556-7491x6016,782-56-4183,INS-Sd5875Py,Medicaid,O-,2023-06-23 10:24:32
+1ac93b09-1b17-4646-bf13-4ce81a71e867,John,Johnson,1963-11-06,F,Other,024 Blackburn Drive Suite 399,North Darryl,PA,12599,+1-866-691-8362x6448,752-53-1457,INS-rV1952nV,UnitedHealth,O+,2023-01-12 10:33:07
+82b5d43c-3d84-4b84-9729-677c0a8033c2,Kyle,Benitez,2025-05-23,Unknown,White,11686 Quinn Extension Apt. 522,South Hunter,GA,14950,393.423.0234x679,082-38-1405,INS-vb6141Lp,Medicaid,AB+,2024-05-23 02:06:53
+1ac482e2-dd1f-4fa0-8a0a-c7377a4d3a5c,Emily,Garcia,1996-04-17,M,Asian,0901 Alexa Avenue,Morrisonview,FL,64192,259.765.5553x5669,895-43-1642,INS-bM0762hH,Self-Pay,O-,2021-01-06 02:08:56
+a1bdbc63-adba-44d1-87ab-09c2e712c359,Karen,Wright,2025-06-05,M,Asian,786 Aaron Route Suite 050,Ericabury,CA,80030,269.415.6716x4932,510-12-4938,INS-hE8727QI,Medicare,AB-,2020-05-11 10:47:00
+0fc66f80-9173-4b01-b6c7-93347aa0894c,Jason,Mullins,1963-05-19,M,Hispanic,60256 Robinson Glens,Lynnville,IL,87726,(787)815-3991,735-96-6253,INS-qh8633sf,Cigna,A-,2018-02-26 15:29:51
+7fa181f4-ad77-4907-89d2-2aa35db52779,Matthew,Vargas,1942-05-23,F,White,195 Melissa Light,West Bryanside,FL,25386,(965)752-8993x1608,149-38-3587,INS-sj7729VQ,BlueCross,A+,2016-11-04 22:39:32
+1c01df36-c71e-4276-b586-49d345068d72,Luke,Shaw,2011-10-07,F,Black,9737 Padilla Lane,Port Masonborough,NY,96531,802.776.4208,433-87-7757,INS-HU5661ss,Cigna,A-,2019-07-31 19:11:05
+36872af0-3396-4561-8002-57c80c1a9aba,Melissa,Long,2025-09-05,Unknown,Black,9047 Barbara Mills,Carterberg,MI,27995,430.259.1266,099-46-7764,INS-Pv2018LB,Cigna,B-,2018-10-15 17:02:42
+fd4896cb-f622-4e17-b534-bcf1f8ec3d2f,Jennifer,Sanchez,2015-08-03,F,Black,67492 Parsons Underpass,Port Stevenfurt,MI,36574,+1-975-601-1117x8309,711-96-1550,INS-PS9267Bt,BlueCross,AB+,2025-12-25 05:43:13
+cba13f5d-5fda-437d-a292-0e44c3512467,Cory,Brown,1947-04-21,M,Black,0688 Brown Villages,Port Karenville,NC,24181,+1-320-687-5102x932,872-97-0574,INS-xI1184kB,Humana,B+,2016-04-06 01:41:31
+6be21052-bb6d-4a08-a932-ec384d37910e,Kevin,Shah,1964-01-21,M,White,872 Neal Pike Suite 988,Lake Corey,NY,06364,503.724.3298,285-17-6915,INS-yP1844kz,BlueCross,AB-,2024-01-08 10:41:03
+c6b02920-e4b4-4b7f-9b0c-49ed0c945c4b,Shirley,Rhodes,1941-08-03,M,Other,314 Jennifer Port,South Lorraine,OH,41966,(360)793-1418x18615,342-35-2398,INS-yo3401yg,BlueCross,B+,2018-05-12 23:06:25
+a596600a-0407-4754-ae0d-8a9d351363d3,Alisha,Hutchinson,1954-03-05,F,White,85948 Lawson Causeway Apt. 562,Lindaside,NY,72809,+1-667-292-4082x226,743-82-6065,INS-lC3967wZ,Medicaid,A-,2024-03-26 17:26:39
+47e24006-38b4-4f8a-b9bb-28b54722561a,Justin,Cisneros,1998-08-11,Unknown,White,1465 Cynthia Club,North Frederick,GA,08026,948-370-6827,416-02-3116,INS-pV0685QH,Self-Pay,AB-,2016-12-24 17:30:47
+6e09692a-96f8-4395-834f-5efb3dfe20a4,Shane,Jackson,2012-12-02,Unknown,Other,15285 Roberto Light,West Tara,CA,44797,+1-638-214-4744x30963,475-80-8000,INS-Dv0509tw,Self-Pay,B-,2018-01-31 10:23:39
+16c102c9-0a45-41e9-b944-6e106141f25b,Michael,Bowen,1930-12-17,Unknown,White,0167 Christopher Passage Apt. 617,East Kaylaview,NC,30135,465.745.6284x1772,766-56-0096,INS-sc5313iz,Humana,O-,2023-06-04 21:19:04
+8c7e26fe-e099-4641-a4da-3a709e07529f,Rachel,Martin,1975-05-03,Unknown,White,4167 Marsh Station,West Karen,TX,52913,862.211.0225x80305,445-62-4743,INS-pN4716jU,Self-Pay,O+,2024-12-16 06:32:31
+0d385186-dfda-46eb-9641-56c4b9b08508,John,Wang,1955-09-09,F,White,363 Mccarthy Valleys Apt. 892,Port Brittany,GA,83663,(831)226-0432,632-26-1490,INS-tS0668Oo,Self-Pay,A-,2020-01-13 14:27:05
+d8acb74b-9dad-425d-88fd-579aad0be650,Ronald,Brown,1976-01-05,M,Asian,041 Cox Keys Suite 350,North Aaron,MI,87064,001-753-647-4916x2475,115-13-0224,INS-VZ8255xV,UnitedHealth,A-,2025-04-04 18:33:28
+59729dff-97d8-41ac-a178-272b2bee3bc6,Nathan,Santos,2012-07-23,M,Asian,611 Crystal Rapids,North Brendaborough,MI,25788,001-271-418-9547x382,197-54-9020,INS-CO4855Th,Medicare,O+,2023-09-06 12:43:11
+419d8216-7e29-4d16-a156-15b65a1662bc,Timothy,Mills,1939-06-22,Unknown,Other,94240 Laura Square,Lake Lisa,IL,65385,+1-488-212-7868x66943,164-74-3569,INS-GT9087UH,Self-Pay,O+,2020-08-30 21:08:51
+cd075fcd-8460-4cda-8023-eb9b7c0ab02f,Melissa,Phillips,1971-07-21,M,White,123 Amanda Highway Apt. 242,Morganton,NC,84703,338.610.5955,740-18-6691,INS-Oa9450wo,Cigna,O+,2021-01-07 11:17:53
+6afc6247-a895-47d0-b4ac-08a1de4367a5,Jonathan,Smith,1954-04-24,F,Black,649 Lisa Forges,Josephshire,PA,83050,001-462-573-6527x17272,584-63-2956,INS-lz4042RM,Medicare,O-,2019-06-16 18:51:29
+f18c8cf6-677e-4e64-b1e4-031c364d0a56,Douglas,Simmons,1939-09-17,F,Hispanic,618 Jessica Valley Apt. 916,Smithtown,CA,84974,3237142900,874-91-1393,INS-Ck3279tv,Medicare,O+,2024-05-29 08:55:34
+0ecfabe9-5db6-405f-97e9-2b6884b5bcb9,John,Stephens,1951-04-15,F,Asian,810 Curtis Hill Apt. 862,East Andrewchester,OH,51013,(554)336-1721,289-46-1250,INS-fc9515Mj,UnitedHealth,O-,2019-04-17 00:19:21
+75210629-7591-4700-9a7b-e864d22a048d,Alyssa,Greene,1988-08-05,M,White,49451 Hendricks Shore Suite 410,Port Diana,CA,42477,(467)371-1964,331-17-2980,INS-BE6557SA,Aetna,O+,2021-12-07 14:51:28
+1ead584d-adfb-497e-82aa-aafe4d5cecf1,Leah,Valdez,1949-01-26,M,Asian,6878 Patel View,South Christopher,NY,94207,(389)231-3503x05872,358-47-2284,INS-Ap4728no,BlueCross,AB-,2017-03-18 16:13:21
+165a67d0-2ff6-49e4-b041-ebe60e35dd0b,David,Dominguez,1949-01-05,Unknown,White,0650 Elizabeth Cliffs,Monroeburgh,PA,04457,(452)413-1096,482-96-2296,INS-Uv8476CY,Medicare,O+,2016-06-26 14:51:46
+eeb74543-7a4d-4691-a7e5-fb26caf599e8,Daniel,Brown,1969-04-15,Unknown,White,282 Randy Manors,Spencerview,IL,75482,543.862.4186x23690,189-96-9164,INS-uP9177Pz,Humana,AB-,2022-09-25 16:44:23
+1146fe45-fbe6-4428-b6df-0e5746cc9843,Brian,Watson,1952-09-09,M,Other,41115 Johnson Haven Apt. 811,New Alex,NC,41017,283.903.4199,047-07-5155,INS-Ws1405zG,Cigna,B+,2019-07-30 12:05:45
+b2acff5f-1b4f-4456-ac6f-63651cf9d1c2,Karen,Swanson,1973-01-21,Unknown,Hispanic,156 Wayne Trail,North Brenda,FL,50585,790.942.2711x3322,805-17-5555,INS-cT4596XR,Aetna,AB-,2022-11-09 05:08:39
+c3caa5f8-0334-4032-b0ef-28d88b271979,Jason,Bishop,1962-10-20,Unknown,Asian,97102 Payne Union,South Clintonmouth,CA,22746,621-949-5511x2747,667-18-2032,INS-sz9705AN,Humana,B-,2018-06-16 00:27:16
+25adf677-1118-44bc-9c8c-7648b1bf4e18,Michael,Kirk,1990-04-03,F,Other,1687 Rich Springs Apt. 903,East Melissaport,MI,49760,(996)913-6715,658-69-7617,INS-zX1121Bm,BlueCross,AB+,2023-02-03 12:00:13
+fca3fbc8-d0d6-4fb2-b7e7-7fe263945cc1,Caleb,Peterson,1974-12-30,M,Black,71470 Stacy Drive Apt. 590,Brownstad,IL,56876,830.330.6442x1214,306-92-7397,INS-ld6834fB,Humana,AB-,2022-01-29 18:31:23
+f91b0bad-8da2-436a-9c7b-fd7422d3d132,Franklin,Bailey,1970-09-01,F,White,7826 Gaines Ports Suite 089,North Jennifer,NY,76324,+1-625-250-2727x516,462-17-7362,INS-Vm9103AS,UnitedHealth,O+,2025-07-20 19:12:41
+decbcb11-c42e-4139-8ab3-5832a7e481e8,Carolyn,Robinson,1952-11-11,M,Black,90550 Mosley Parkway,Lake Victormouth,TX,54771,(455)886-8512x76528,391-37-7168,INS-Zg4911fP,Aetna,B-,2016-07-16 14:37:36
+7d4dc32d-d238-4cc3-8c7a-a36a0e77490c,Sarah,Garcia,2014-02-17,F,Hispanic,789 Elizabeth Walk,Lewismouth,GA,72798,(613)671-5766x0538,675-34-5037,INS-ca6306bj,Medicare,B+,2022-08-19 00:21:43
+aacb7c41-d793-4028-94a5-acb46e7691fd,Lori,Greene,2000-11-20,F,Asian,96386 Christina Lock Apt. 962,Maddenburgh,OH,53338,782-563-1281x96482,096-12-0421,INS-bN6092TI,Aetna,A+,2017-08-08 00:20:16
+c28d3bfe-08f4-4d1d-b0d7-163ffb5efabc,Patrick,Newton,2008-01-30,M,Black,5233 Lee Ville,Lake Kimberly,MI,50060,001-440-641-2091x17911,269-24-1521,INS-zg1753FY,BlueCross,A-,2016-08-19 23:23:31
+f4ad8b40-c596-4439-9b60-a165087b8694,Charles,Chung,1986-07-27,F,Hispanic,66572 Kent Fall,North Theresastad,PA,63928,+1-298-402-8413x908,222-47-1881,INS-of3052US,Self-Pay,O-,2018-06-01 01:56:45
+cfae9075-2b9b-41f0-96fc-79798f0300dc,Joshua,Gonzalez,1966-09-04,F,Asian,8477 Hunt Locks,West Gerald,FL,90554,001-846-619-9423x767,836-41-1763,INS-Kw9663xO,Aetna,AB-,2017-05-09 21:00:32
+18d85b4a-2a79-4995-a100-4eaa2dacf553,Gary,Johnson,1991-06-03,F,White,649 Sanders Crescent Apt. 562,Johnborough,IL,86609,(752)551-0505x379,576-09-6318,INS-ng4938Jr,Self-Pay,AB+,2017-07-14 11:31:27
+0f736a57-d8c6-478d-9106-569e5ea67b13,Patricia,Fisher,2008-05-16,M,Black,5330 Jimenez Harbor Suite 117,New Mark,PA,50682,490.840.9074,038-69-8643,INS-Eg0501ZA,BlueCross,A+,2021-05-19 21:02:51
+4c6cfcbe-4bf7-4f2f-a783-4b9960cb2cc0,Logan,Reed,1967-08-23,M,Asian,579 Phillip Square,Snyderville,FL,49509,+1-310-530-0215x632,742-48-8808,INS-hd0040te,UnitedHealth,AB+,2020-09-30 06:46:18
+c122fdac-afe3-4f12-b431-210e1c80439a,Hailey,Conner,1975-01-30,F,Asian,2297 David Wall Apt. 967,New Allisonshire,CA,63143,+1-374-357-3144x15833,507-08-3482,INS-mF0376gv,BlueCross,O-,2019-10-24 02:46:58
+d3444813-6942-43bb-9169-ba4cb78b2c48,Kathleen,Palmer,2010-08-18,Unknown,Hispanic,7281 Jeffery Lakes Suite 798,Port Ricardo,NY,09497,962-449-1271x130,274-04-7803,INS-hJ8754fw,UnitedHealth,O+,2023-08-08 14:56:39
+332502cc-a645-470f-9a15-09a0c71783c0,Edward,Shaw,1959-02-13,Unknown,Black,74510 Dennis Manors Apt. 436,New Joshua,NC,80120,586.310.3131x0094,545-13-4514,INS-zg3966oU,Medicare,A-,2020-10-28 11:47:52
+6518d46e-d823-4dc1-a02c-39dde148bee3,Jamie,Floyd,1997-08-26,F,White,494 Clinton Parkway Suite 432,Erinburgh,PA,25056,772-907-6502x41209,598-01-8001,INS-bK3710Rs,BlueCross,O-,2020-02-23 01:39:23
+7fa07566-efdf-4b37-9b01-33530870625d,Wesley,Fischer,2001-09-30,M,Asian,45775 Alvarado Glen,Stephenstad,MI,39971,001-458-797-1480x263,510-04-4004,INS-Vf9653my,Medicaid,O+,2018-02-05 04:51:59
+36a6ac8c-fa8b-4000-94b0-4f7bee61d3ea,Natalie,Shelton,1967-07-16,Unknown,Hispanic,245 Myers Mall Suite 430,Maryville,IL,57315,495.641.0727x284,499-37-1059,INS-ns4070Lh,Aetna,O+,2017-03-02 01:41:17
+f865ae74-6609-47cb-bd2f-855b28b652ea,Kevin,Jordan,1996-09-21,M,Asian,42548 Stephanie Station,Douglasborough,NY,57130,001-814-830-7536,101-34-4949,INS-BR9429uZ,Self-Pay,AB-,2026-02-05 03:30:23
+6d8852ff-d948-4a73-80b0-6d2f56510006,Felicia,Gonzalez,1949-03-14,M,Hispanic,8344 Kenneth Road,Gardnerfurt,CA,57765,828-975-8575,431-53-7558,INS-fW0806iN,Cigna,O+,2021-05-28 12:35:39
+527b99c4-9b59-46b3-94e6-c4eab08b71a2,Betty,Watson,1963-04-13,Unknown,Hispanic,62607 Combs Corner Apt. 415,Port Kellyfort,NC,91018,601-698-0382x87232,737-01-7946,INS-aj9311Mh,Aetna,O+,2025-02-07 14:29:25
+8e94ae54-bb21-4a8e-a243-66f1b09c1105,John,Garcia,1943-06-11,F,Asian,760 Kevin Orchard,Port Jimmy,FL,72160,597-991-6202x232,492-38-4743,INS-Qr1975zy,Medicare,B+,2018-02-01 12:00:42
+7f4f9726-0ed7-4d78-8e9d-89a88d562d7c,Robert,Coleman,1993-05-27,M,Other,7196 Beverly Bypass,Williamsstad,CA,18759,374.402.5883x586,672-20-5765,INS-rY9572WQ,Cigna,AB-,2021-05-31 21:06:35
+efcb1e92-2895-4015-b80b-86073e765ac3,Carlos,Franco,1983-11-15,F,Black,7929 Anderson Islands Suite 996,North Anthonyburgh,FL,30870,817-875-3312,066-08-4104,INS-Wx1017MO,Aetna,B+,2016-10-05 14:14:35
+7be2eb56-8344-4094-8157-d2ef257b43ac,Manuel,Hale,1953-12-12,F,Black,98334 Kim Heights Apt. 326,North Brandi,NY,82960,+1-913-502-0569x81528,853-27-9345,INS-NJ7855iZ,UnitedHealth,A-,2017-05-27 19:45:45
+90cd710f-9f41-4669-8433-7693f38daccf,Ronald,Bennett,1989-12-27,M,Hispanic,128 Garcia Parks,North Carolyn,GA,43875,3345465124,874-67-8193,INS-IS4690hL,Self-Pay,AB-,2024-04-10 02:21:58
+23aa796e-37a4-4037-84ec-10928bd6f326,Denise,Johnson,1966-01-22,Unknown,Asian,3502 Amy Street Suite 037,Port Stacyton,NY,45831,269-391-8724,037-64-8317,INS-tY3567ob,Self-Pay,A-,2017-03-15 12:17:53
+e5dc9938-7365-4940-88eb-c9157191794d,Kim,Shepherd,1933-11-05,F,Hispanic,087 Paul Lane Apt. 668,North Samuel,IL,81195,(853)256-0331x903,822-02-4095,INS-Cl0102sc,Humana,A+,2021-08-09 10:46:42
+c630a7fa-7108-42ac-b123-1f37342717cd,Carrie,Zamora,1977-11-06,F,Other,96711 John Plains Apt. 753,Marquezstad,CA,72774,638-345-8810x5697,209-18-8536,INS-hx3483UY,Humana,O-,2018-09-04 15:43:30
+7504fa35-adbe-496f-9771-93c0139c5e3f,Tiffany,Hale,1935-02-20,F,White,07044 Evans Corner Apt. 496,Smithfurt,TX,50919,703.236.2680x408,624-97-5509,INS-vU4930NB,Medicare,AB+,2023-07-15 05:41:15
+40fb7acd-e4ff-4bd7-ab34-4fb68b5fa7e4,Lindsay,Tran,1938-01-12,M,White,769 Martin Light Suite 320,Laurenview,MI,11712,784.659.6094,676-33-9962,INS-Qu0149ql,Medicaid,O-,2023-10-24 06:28:45
+03ebc1a0-404f-4c9b-8d01-74165a993cb8,Andre,Smith,1993-03-27,Unknown,Other,7836 Bethany Common,Pennyside,TX,41661,472-444-4723,893-80-0813,INS-RG3102CL,Self-Pay,B-,2021-08-29 09:16:20
+66121183-2b87-4e00-84a0-a30b2a5dfaaa,Angela,Perez,1935-12-20,F,Other,0580 Michael Club Suite 181,East Mark,GA,49175,+1-661-264-2059x55657,165-48-0731,INS-gM4290nZ,UnitedHealth,A+,2021-08-03 02:38:49
+1474b9d5-b8d7-4b0e-ada9-148b8f25f87d,Jennifer,Harmon,1999-10-11,F,White,69026 Stephanie Fork Suite 818,New Thomashaven,OH,68702,754.339.4353x537,710-31-7292,INS-JG6515ex,Aetna,B+,2024-06-30 23:17:10
+679f7615-5d82-4994-843e-30fa6e4f820d,Jerry,Hartman,2012-08-17,M,Black,283 Craig Shores,New Jorge,GA,38103,451-316-6829x73270,429-34-9087,INS-Bb7120Sk,Self-Pay,B+,2017-07-03 05:40:25
+8e1644b0-8426-4a90-b445-ff0ade419373,Zachary,Moreno,1948-04-10,F,Asian,5268 Jennifer Crest Suite 599,Lake Brandonstad,IL,59338,(776)947-2298x12099,389-42-7186,INS-Xg2894ot,Medicaid,O+,2024-08-26 18:11:07
+8440054e-6f65-4722-8f79-1386a62a8e6e,Brandon,Holmes,1976-09-07,F,Other,5652 Bobby Street Apt. 684,Coryport,TX,22205,344-577-3244,683-36-2311,INS-Wk1388bM,Medicare,A-,2016-12-08 12:08:27
+2ae170bf-47ef-4fff-b378-e3f4bf47068d,Amanda,Lee,2003-09-24,F,White,53496 Meyer Village Suite 411,Onealfort,NC,34980,424-715-1315,283-59-8403,INS-gT1506YH,Medicaid,AB+,2021-08-30 14:01:10
+7a94aaf8-1f04-40a4-8061-6ec8764a47c8,Mckenzie,Guerrero,1956-03-03,F,Other,032 Wiggins Forges,West Theodore,NY,64006,(874)323-1830,503-72-3417,INS-Ny2064OL,Medicare,A-,2020-04-03 00:17:10
+25f0595b-0104-421e-9a73-06bac978558c,Michael,Moreno,2017-01-18,Unknown,Black,3477 Harper Plains,Phillipsbury,OH,15229,001-446-975-3612x75156,861-63-9848,INS-rG6304nY,Humana,O+,2023-03-22 00:18:00
+201f1f73-2588-4d60-a6f0-8f9896a732a5,Anna,Morris,1938-07-14,M,Other,6766 Gaines Grove Suite 350,Sethbury,CA,75540,(283)219-9529,822-49-1479,INS-Pd5581Hn,Humana,O+,2022-06-03 12:51:42
+a62a2e86-3a57-4c08-af3c-cb362c250e9c,James,Moore,2003-02-19,Unknown,Asian,342 Rivera Forge Apt. 000,New Raymondfort,NY,06043,(844)803-3041,135-95-4424,INS-UT1118WU,Aetna,O+,2023-04-30 14:53:27
+15b4cc61-6fd8-4d74-b350-bad6326779e9,Alexis,Greer,1932-12-31,Unknown,Asian,96394 Coleman Summit,West Joshuaborough,TX,13566,697-564-6136x847,392-03-8144,INS-Co6581Kb,Medicare,AB+,2023-01-08 13:51:05
+5830553c-c741-4767-a662-0916796a8b74,Sergio,Woods,1961-11-06,M,Black,452 Cody Extension,Port Sheri,OH,78280,212.969.7893,259-53-5103,INS-SK5205MA,Self-Pay,B-,2016-05-10 03:51:15
+a64768ad-d60e-48d7-ac8f-026fe56056e5,Hannah,Fischer,1966-10-02,M,Black,753 Murray Orchard Apt. 161,Martineztown,NY,21746,812.837.1067x28728,010-38-1927,INS-uN6448xK,Aetna,AB+,2019-01-31 16:32:39
+5c546184-c907-4962-96b8-3b802287f22f,Kelly,Cohen,1949-07-08,M,Other,947 Clark Isle Apt. 287,West Robertberg,NC,62169,304-233-1875,640-60-9740,INS-ow2158Oa,BlueCross,AB-,2019-07-16 13:35:21
+a110d267-3a4c-4abe-ac13-9abbc77aab10,Justin,Buck,1967-08-18,Unknown,Black,459 Villa Points Apt. 192,Lake Javierburgh,MI,34964,001-612-989-6599,215-22-0044,INS-jj3319kE,Medicaid,B+,2016-04-07 01:44:48
+64905812-70c2-400b-8402-c56f5bdb3abb,Christian,Booker,1974-04-07,M,Black,767 Turner Trace,East Annfurt,MI,51033,001-475-848-5819x324,574-57-8030,INS-Pw4186lb,UnitedHealth,O-,2022-06-25 20:09:19
+c6876595-a900-4e27-a1b0-02024fc8892b,Kelli,Reed,1993-09-09,M,Hispanic,98365 Sarah Branch Apt. 758,North Brenda,OH,43551,954-880-9404,045-90-4146,INS-TE4090MO,Cigna,O-,2023-12-29 14:00:29
+b47a6c1b-f5de-4108-8909-913ae9d3d655,Glenn,Brady,1996-12-26,Unknown,Asian,50922 Christopher Village,North Scottton,GA,41688,784-239-0552,681-52-6822,INS-jU0138rf,Cigna,B-,2019-03-13 22:42:20
+cdc81aa8-9b91-422e-a909-7be6f36b09f3,Bradley,Franklin,1990-08-09,F,Hispanic,04485 Matthew Port Apt. 971,North Ianland,FL,24835,290-820-3571x34324,723-37-2917,INS-Ao4295mr,Medicare,O-,2019-08-26 11:27:50
+d9ede32a-bcc3-46c4-b1b8-cc57817d9637,Tiffany,Green,1954-05-13,F,Asian,1759 Bailey Row Suite 209,Mooreshire,PA,28112,001-665-543-5884x183,479-34-0516,INS-iD1827Lu,Medicaid,B+,2022-08-05 19:45:31
+9c3d50b2-f46e-4ae5-8d92-692021f30808,Nicholas,Chapman,2006-12-27,M,Other,1502 Alvarez Junction,East Robinport,NY,21832,582.607.9799x667,741-48-9846,INS-co5764WG,Humana,A+,2018-02-04 17:28:52
+95e24ede-fb3f-422f-8b0d-73561fc3a148,Ronald,Adams,1987-07-22,Unknown,Hispanic,028 Sandra Ranch Apt. 922,Kristinaton,OH,12349,325-476-2702x3244,242-27-7153,INS-Xx1328aE,Aetna,A-,2018-12-21 13:54:49
+1ca8c36e-6c0b-4531-b834-179913b3e2aa,Cory,Pierce,1977-03-04,F,White,376 Mccarthy Track Apt. 625,South Kerri,NY,37619,+1-769-768-1579x03923,349-65-0027,INS-Po9961iF,Humana,O-,2019-06-17 13:07:53
+4773f9ae-677d-43b6-baf6-099cfb9d7d76,Jason,Graham,1936-04-12,Unknown,Black,2624 Hughes View Suite 046,East Raymond,PA,68310,471-851-6025,703-59-0190,INS-tB7660qV,Aetna,B-,2018-03-27 01:54:14
+916045cc-b95b-4711-aee8-fd1da31c77db,Lindsay,Odonnell,2012-05-30,F,Asian,5851 Tina Place Suite 120,Stacyshire,TX,34296,389.976.0740,472-47-0821,INS-vR9546sX,Medicaid,A+,2016-08-29 18:01:51
+afd34521-8298-4254-89eb-66b212ea332d,Joseph,Carter,2004-02-16,F,Other,75409 Michael Camp Suite 321,East Jessicafort,OH,57006,257-493-8970x155,624-93-1657,INS-OV6815tB,Cigna,O+,2023-01-29 15:33:00
+bc399556-3a12-4a73-8c69-973545222c85,Ivan,Francis,1933-04-21,M,Asian,1394 Gilbert Plains,Lake Lauren,FL,49552,001-873-464-2480,695-37-4468,INS-YA0630Qi,BlueCross,AB-,2020-12-07 21:24:15
+81e6855d-116a-4690-9b74-f39f58e16f6a,Steven,Tyler,1966-08-09,M,Asian,33053 Cheryl Stream Suite 969,Amberfort,NY,73594,5554557277,690-50-4190,INS-OF6091Jw,UnitedHealth,A+,2017-09-03 20:30:31
+7c1e3e2b-2955-445c-9482-c34dd3af3bc5,Julie,Moreno,1958-07-04,F,Hispanic,5770 Colleen Expressway Suite 966,Port Teresaside,NY,98025,636.482.6911x6331,886-21-6572,INS-AM8653ru,Self-Pay,O-,2022-06-10 05:27:52
+f458302b-413e-4207-a651-26ee7c95921d,Daniel,Dyer,2016-01-15,Unknown,White,886 Michele Park Suite 472,South Keith,CA,70318,372-816-9666x30932,024-42-9992,INS-Rf3297xb,BlueCross,AB+,2022-11-19 19:25:42
+bb5add07-50da-4541-b795-85cbc4eec646,William,Lee,2005-05-23,M,Black,5327 Marcus Hill,North Jamiemouth,NC,60688,797.432.7819,251-60-1145,INS-Ey0068eY,Medicaid,A-,2023-05-11 05:50:30
+2cb0da40-546e-4656-b53d-bf9c4aebe954,Nicole,Medina,1965-08-25,F,Black,7046 Michael Stravenue,Pattersonville,IL,14083,(549)912-5652,216-34-1592,INS-Wp5177Wq,Aetna,A+,2022-02-01 09:43:04
+3999b384-f6e2-46bf-bcaa-5da66349137a,Hannah,Rivera,1970-06-13,M,Hispanic,494 Kathleen Drive Suite 035,Jenniferport,MI,94327,(694)877-4222,264-82-3735,INS-jL0394aq,Self-Pay,A-,2022-06-16 08:40:24
+b6bf4d55-581f-46a5-a6b8-97767797571a,Julie,Ferrell,1999-06-24,M,Hispanic,9252 Mills Lane Suite 287,South Penny,MI,02366,+1-915-234-3324x91357,861-96-8588,INS-zO3350gv,BlueCross,B-,2024-11-22 12:21:53
+ed78e38c-e11d-44fd-83b8-84532df7793b,Joseph,Nixon,1939-05-28,Unknown,Black,79833 Robles Falls,East Hannah,IL,60278,(409)648-4131,063-27-3729,INS-Dg3997IY,Medicaid,A+,2017-02-16 22:57:03
+b61a2f04-50e0-4d0f-9089-e7d119641a1e,Kristy,Jones,1973-08-27,Unknown,Asian,71731 Carmen Hills Apt. 961,Watersborough,FL,77694,+1-697-604-6947x2587,271-69-4080,INS-tO5488Ch,Medicaid,B+,2019-05-12 13:37:26
+b568c9be-be71-47d3-810b-03689a914d4b,Adam,Barry,1996-08-13,Unknown,White,2216 Davis Wall Suite 582,Port Daniel,NC,30883,548.445.8714,332-21-3145,INS-Qk6229uH,Medicare,A-,2024-04-27 11:24:35
+eb2d025a-3caf-465b-bb62-b465486fdd4d,Caitlin,Butler,2019-03-14,Unknown,Other,47452 Cook Knoll Suite 746,Farmertown,NC,53464,6656274033,853-48-0388,INS-JJ5665Vm,BlueCross,O+,2019-12-02 09:03:03
+c76f1ef9-a615-4c45-b1b1-72ddfe644277,Wesley,Gates,2014-04-22,F,White,32579 Crane Cape,Wattsfort,PA,33248,699-360-1054x857,484-18-1213,INS-Lt5622Km,Medicare,AB+,2025-10-26 16:02:47
+2f766ce3-0b10-4f14-9b6f-38522dc9f1ba,Samuel,Murphy,1942-03-27,Unknown,White,840 Kelsey Cliff Suite 573,West Taylor,OH,60899,(953)244-9021x666,852-68-0988,INS-Bc8509GZ,Aetna,AB-,2021-10-28 21:08:47
+93e52f27-b183-40c4-83c6-a6cb35d17601,Travis,Andrews,2003-08-04,M,White,191 Amanda Union,New Sandraborough,MI,99055,764-977-2512,541-89-7085,INS-aN0694yb,Medicare,B+,2016-05-28 14:11:44
+d1413b40-be90-40e7-9e6f-822afab538e0,Marcus,Hernandez,1960-11-29,M,Asian,587 Kayla Ports,Patriciashire,NC,20503,223.442.1089,554-45-1135,INS-mt5533kB,Medicare,B+,2020-11-14 23:00:13
+eddbc727-babf-4b35-88e3-526a292ea229,Sharon,Robinson,1961-12-19,Unknown,Hispanic,27160 Dillon Walk Apt. 607,Rossborough,GA,50374,001-511-328-9812,501-95-9910,INS-nf5563ZG,UnitedHealth,B+,2022-05-20 14:55:03
+f86c217b-f68d-4e81-9d97-5ed40efbf907,Jonathan,Rodriguez,1995-04-24,M,Hispanic,06661 Ward Inlet Apt. 643,Lake Dawnfurt,TX,62283,4454023290,144-89-7698,INS-VQ0093sx,Humana,B-,2023-04-27 11:46:47
+05d5c252-e727-4ce2-83ee-40e46f49b182,Robert,Thompson,1951-09-10,M,Black,251 Anthony Ford,Richardstad,TX,35258,+1-850-405-0702x608,162-13-0245,INS-eh5316ED,Medicare,AB+,2023-04-28 17:40:32
+1ca4a8a6-d81d-49db-a63f-0ceb9c4ae729,Scott,Vincent,2003-04-22,Unknown,Hispanic,7742 Douglas Lakes,South Trevorshire,NC,26228,(638)322-3116,256-29-4107,INS-QL2457HH,Self-Pay,AB+,2026-01-29 22:19:41
+5c063d75-6a12-414f-ab4d-e0bcb750ebb0,Kathleen,Anderson,1966-07-24,M,Black,2906 Laura Falls Apt. 203,South Marcus,IL,75485,375.639.6737x9487,672-99-8430,INS-vZ5524FX,Medicare,A+,2025-08-07 06:56:56
+85374773-1e95-455c-b3c4-a08d1845007b,Elizabeth,Barnett,1992-05-12,Unknown,Asian,415 May Plains Apt. 137,North Andreaport,IL,17055,(547)268-1826x832,204-94-5799,INS-HH8929dZ,Aetna,AB-,2025-05-01 10:57:19
+45328782-8d02-4733-ab09-ea280cf2744f,Amber,Steele,1979-08-13,F,Hispanic,2129 Megan Terrace,New Sheri,GA,80411,(234)306-4686x77524,258-91-9106,INS-ed4399WA,Medicaid,AB-,2018-08-25 08:28:17
+0c221787-49bf-4541-8a3b-35995452a0bf,Timothy,Martin,1949-10-29,M,Hispanic,2669 John Keys,East Tabithaview,GA,18908,(319)923-7245x0184,238-85-7181,INS-Dj4189eW,Medicare,AB+,2022-01-25 18:47:13
+3c63195b-e9fa-4973-968c-0ed6c385f96b,Stefanie,Williams,1967-04-17,M,Hispanic,76927 Walker Cove Apt. 995,Port Melissa,CA,65320,001-766-301-4448x564,014-13-7956,INS-LB3973Qr,Medicaid,B+,2018-01-11 13:22:57
+93181e67-f1e6-41d7-a9f0-13dc3938b54c,Ann,Monroe,1996-08-27,Unknown,Asian,860 Brittany Underpass Apt. 911,West Betty,OH,93471,+1-266-505-7798x066,581-24-0396,INS-Zb5146UD,Aetna,A-,2020-07-28 19:42:45
+fbd2339f-4f07-4785-94d2-4d500e315897,Loretta,Cooper,1979-01-23,F,Asian,7057 Mack Estates,New Kelli,IL,72233,+1-656-352-7155x9835,740-12-6653,INS-Wy5972mq,Self-Pay,O+,2024-07-08 23:05:07
+ec15913c-0e02-4b72-aa86-c0ab738a2a14,Matthew,Kim,1977-12-22,M,Hispanic,25013 Stout Squares Suite 882,Montgomeryland,OH,26534,819-464-2585,395-14-4816,INS-oC9915cp,Self-Pay,A+,2025-08-01 14:42:30
+8eae1f36-da7a-42f7-b10a-b6388898296d,Elizabeth,Hill,1951-05-10,Unknown,Asian,33373 Alexander Gardens Apt. 977,Hawkinsshire,MI,25698,(728)796-9645x46553,079-89-2204,INS-ig5389YG,Medicaid,AB+,2024-05-09 16:04:48
+358b3426-6aca-4aa7-a5e0-70ac3ed6158a,Lawrence,Aguirre,2003-02-13,Unknown,White,583 Adams Villages,South Christinefort,CA,77972,(612)608-7805x72151,746-04-9794,INS-nQ7626Ct,Medicaid,AB-,2025-06-03 00:19:00
+99c441d3-61fa-4114-b378-7e2d931b8d60,Emily,Rivera,2025-02-23,Unknown,Black,89509 Jennifer Knolls Apt. 191,Crossborough,TX,33111,+1-822-807-1511x696,714-61-2270,INS-wl5214TB,UnitedHealth,O-,2020-07-19 12:00:09
+cf7da49a-f9b2-457f-b3a8-02401dfb33f2,Christopher,Green,1998-04-07,M,Black,51571 Smith Rest,New Brianstad,CA,13017,(708)300-5640,177-25-8163,INS-gR2835jM,Cigna,AB-,2022-08-17 12:57:08
+b3d56cde-95a7-48a1-a1f1-9cce30441c48,Gregory,Alexander,2008-05-17,F,Hispanic,270 Savannah Underpass,Port Sarahport,MI,14627,(929)882-1739x295,803-58-1907,INS-xj8153pF,BlueCross,B+,2019-06-19 20:15:19
+283c7b56-8468-41c6-8e38-48af96590158,Bob,Brown,1985-04-13,Unknown,Hispanic,918 Elizabeth Islands Suite 834,Derekborough,OH,38899,+1-866-666-1707x1587,510-99-4706,INS-ft0803LV,Medicare,O-,2025-12-24 07:37:13
+5b1e737e-290a-49cf-bf11-715d183ce6d6,Glenn,Edwards,2004-02-18,M,Other,004 Lopez Plain,Port Marciachester,NY,97302,982.585.0317x23513,585-82-0256,INS-sa0631pQ,Medicare,O+,2021-11-20 18:02:57
+74231212-953f-4ab0-84ba-ad2685a29e81,Valerie,Serrano,1954-05-10,F,Asian,0229 Christy Green Suite 943,Roberttown,FL,55012,(364)337-4906x07231,163-63-1090,INS-Vq2852RT,Aetna,A+,2023-01-13 21:29:47
+796d3213-4bce-42eb-9d47-5891c62fa389,Amanda,Mitchell,1969-01-07,Unknown,Black,16318 Gonzalez Path Apt. 771,East Benjaminfurt,GA,24680,213-569-5727,787-27-5209,INS-vq0902lw,Medicaid,A-,2024-02-14 12:38:55
+75c4866b-e119-41e9-b916-0f59db21bb6a,Rachel,Brown,1957-07-26,F,Asian,48132 Matthew Stravenue Suite 071,New Allison,GA,73488,(228)450-1168,742-42-6069,INS-ay0213aK,Cigna,AB+,2017-04-03 12:47:08
+ec149c4f-cf9c-4ba5-9273-f39b6a62cccc,Kayla,Wilson,1983-01-01,Unknown,Hispanic,098 Andrew View,Pinedafurt,FL,37524,+1-796-573-7945x77278,148-37-2857,INS-Vb6425BZ,Aetna,B+,2021-05-12 18:56:48
+2a137d24-a9c6-4534-b58b-7e0c8594a373,Brad,Jenkins,1949-11-08,M,Hispanic,2536 Stephenson Mount,Wallacefurt,NY,61255,(755)962-8333x393,562-98-6689,INS-jE5436gI,Self-Pay,A-,2023-12-16 03:45:03
+bf5d4889-3b8f-4e76-9c58-0e683209808b,Rebecca,Sosa,1971-02-18,Unknown,Asian,33582 Giles Meadows Apt. 703,Bradleyburgh,OH,36325,001-792-269-3265x7327,693-13-1071,INS-vf1000uw,Aetna,AB+,2019-09-18 23:32:23
+e8b061cb-eb58-43d2-bd5d-cadcafdbac72,Susan,Parker,1950-10-03,F,Black,9597 Morgan Extensions,Kevinside,NY,21447,(926)618-9628,707-32-1858,INS-iy2710Ey,Medicare,B-,2024-05-16 18:26:19
+0ada4e64-a3cb-46ec-beb4-40bc2fab4698,Katie,Willis,1953-06-16,M,Black,9927 Tara Skyway Suite 515,East Dennisport,NY,89285,(821)435-4159x7099,374-33-3147,INS-Fu8480kd,Cigna,O-,2020-04-28 09:57:14
+c4c17b44-c6dd-47f5-b014-99997fbe6eac,Kristopher,Cole,2025-08-06,M,Asian,0471 Arnold Curve Apt. 904,Gonzalezfort,NC,50310,(504)965-5866x5254,289-35-1365,INS-hb7158Zi,Medicare,O-,2018-01-30 17:19:32
+ea1d00fb-d6a1-4521-8fed-87ea218ea219,Charles,Brooks,1963-04-29,Unknown,Black,311 Jennifer Street,Mollyland,MI,20980,001-375-419-1023,094-92-1501,INS-dT0633fy,Aetna,A-,2021-09-17 11:10:51
+26bb1923-8ffb-46a7-be32-ef82c817c732,Alyssa,Alvarez,2015-05-20,F,Hispanic,792 Roberts Springs,South Jacksontown,GA,10928,(534)428-9311,869-42-3731,INS-MA2694GO,Medicaid,O+,2021-02-11 23:18:50
+95612276-df3b-4c28-8b6d-41ab530990eb,Ronald,Summers,1959-12-18,Unknown,White,044 Calvin Circles,Cooperton,NY,81745,001-961-770-1595x91945,761-62-6070,INS-IV7475mo,Medicare,A-,2026-04-02 10:53:08
+76c6cb0f-09e4-41e0-ba73-f9d343c85ae8,Brad,Gomez,1953-06-21,F,Hispanic,5677 Hernandez Street Suite 602,Patrickberg,NC,52853,(406)622-9231x067,346-26-0356,INS-Jr7624om,Medicare,B+,2024-07-15 18:15:17
+9b845840-0dbc-4298-b29d-2bdf6a099223,Jennifer,Reynolds,2012-11-05,Unknown,Other,0511 Mccarthy Rest,Donaldhaven,NY,65280,867.304.2549,614-17-8678,INS-xK4552Ee,UnitedHealth,O+,2016-07-24 14:00:21
+5b303ceb-73e7-496a-8837-87412725a879,Mitchell,Sanchez,1991-02-08,Unknown,White,357 Peters Ports Suite 325,Lake Brittany,CA,31567,479.770.5816,084-68-8044,INS-Cy7941Xm,UnitedHealth,AB+,2020-12-16 20:24:22
+cd1aabe7-42f3-4596-9cc6-041cdd06ec99,Michael,Strickland,1949-09-24,M,Black,30559 Hoffman Tunnel Suite 575,Port Lisa,OH,25168,+1-291-640-3884x366,268-27-2361,INS-fx4006DX,Cigna,AB-,2018-10-09 18:50:15
+c06b2d42-b4cd-466a-8297-58d60bf16df7,Connie,Peters,1991-01-19,Unknown,Asian,1474 Jasmine Motorway Suite 292,Stephanieville,CA,07372,287-652-5680x65625,332-73-9315,INS-Fe0802ei,Humana,B-,2018-11-03 08:40:39
+62dc872d-0425-4431-a459-067a87380b8e,Alexandra,Bentley,1944-03-05,Unknown,Other,55516 Potter Park,Gardnerhaven,IL,55073,+1-262-281-3721x4330,659-90-3695,INS-Wo7003ji,UnitedHealth,AB+,2024-10-11 01:24:32
+101e7840-0aa2-4112-b901-6dc613d3e6ca,Marcus,Avila,1973-09-26,Unknown,Other,84706 Billy Radial Apt. 339,Smithland,CA,76730,(782)863-2809x448,164-26-9956,INS-qz4535hP,UnitedHealth,B+,2021-02-11 20:08:22
+d1943953-fb15-4791-8149-9d77b563d960,Anthony,Morrison,1991-09-23,M,Other,21061 James Port Suite 394,Stevenbury,MI,74798,738-904-0325x376,401-78-2708,INS-sY7789Qp,Medicare,A+,2017-08-01 04:32:09
+48685e7c-db2b-4836-9665-5d7e8ee09d11,Daniel,Smith,2014-02-22,M,White,004 Kevin Light,North Brian,TX,28721,+1-636-951-4604x0142,820-27-1972,INS-hf0720Up,Humana,B-,2024-01-03 07:55:23
+f4946cf0-a7f9-4753-b5f5-80e80bd285a3,Heather,Nelson,2009-03-01,Unknown,Hispanic,971 Jason Locks,Johnsonfort,MI,57188,262.609.0144x734,893-25-3848,INS-BJ7009SF,BlueCross,O-,2020-03-14 03:49:38
+662fe641-74db-4075-9a8e-62bf1cb382a4,Justin,Davis,1936-09-11,Unknown,Other,7825 Barber Plains Apt. 556,New Richard,IL,61775,(742)778-6561x942,661-60-7386,INS-GO8205jM,Humana,O-,2022-01-27 11:27:12
+a41c135c-d2c1-4f24-8494-3e67c5171945,Cynthia,Garner,2003-10-13,M,Hispanic,61618 April Ports,West Sarahburgh,IL,97456,857.515.5868,591-45-6685,INS-SW1372mT,Self-Pay,A-,2016-04-09 05:49:49
+2d0d4ff4-d7c3-4f9a-9a3a-369644d03681,Lauren,Simpson,1998-12-03,Unknown,White,436 Bryan Plains,Port Jamestown,NY,04577,613-721-1471x6560,398-48-3416,INS-EO4699NL,Self-Pay,O+,2016-12-21 17:45:56
+42fdd536-3f23-40c4-be89-fd80c4e1c668,Travis,Johnson,2022-09-08,F,Hispanic,0476 Roberto Radial Suite 706,South Katherineland,FL,62743,281-713-1765x397,318-71-7393,INS-aR3961iL,Medicare,B+,2016-09-27 23:45:00
+52c775d5-37df-4731-9eab-2b58b6272581,Sean,Shaw,1999-03-02,F,Asian,9680 Richards Square Suite 274,North Kelly,OH,43940,(412)513-7730x62604,349-88-9562,INS-gk7371ii,Medicaid,B+,2025-11-01 11:23:23
+600030e8-6195-48e8-88ca-5ac766e0c623,Samuel,Richardson,1933-06-25,F,Other,85816 Johnson Mews Suite 111,Nataliestad,NC,62711,(783)621-0219x2378,490-09-3040,INS-co9618mj,Aetna,AB-,2021-05-15 19:20:28
+3f52e517-4543-4292-a994-6956cd718a02,Julie,Myers,1948-05-22,M,Hispanic,80184 Kevin Valleys Apt. 537,East Elizabeth,CA,63189,931.326.8812x2821,580-22-4048,INS-Ad6534WB,Humana,O-,2016-12-28 03:58:15
+aa01b113-066c-4268-af68-77f230813795,Kimberly,Johnson,1973-11-16,M,Black,7932 Mendez Turnpike Suite 239,Tylerland,CA,57221,+1-906-718-1205x464,311-69-9918,INS-Fy5478WS,BlueCross,AB+,2025-10-16 10:10:20
+4a19c087-8859-4b4a-aff2-260aaf675576,Cassie,Guerrero,2023-02-07,F,Other,5175 John Grove,Nancyhaven,PA,30364,853-593-5435x86449,787-79-2282,INS-Ju4358nZ,Cigna,B+,2024-02-18 14:19:45
+99b0774f-677a-498c-a13a-9a4a5382076f,Abigail,Wilson,2009-06-07,F,Other,339 White Rue Suite 536,Loveshire,OH,60673,+1-852-249-1416,069-25-4175,INS-rG7789KA,Cigna,B+,2019-08-26 06:17:57
+f2290bef-a321-4a7a-af36-151ecc5eaedd,Brent,Patterson,1966-06-03,F,Other,176 Edwards Dam Apt. 150,Port Chadville,GA,72392,+1-242-316-3090,346-80-4542,INS-oN4633MK,Self-Pay,AB+,2020-10-18 23:27:11
+ca477035-57a3-4cfc-a660-adadeaf2ed93,Michael,Young,2005-06-20,F,White,953 Linda Views,Harristown,CA,21524,599-547-1136,471-79-2714,INS-ap2341Qt,Medicaid,O-,2023-08-31 17:39:26
+be2a0aa3-ce85-4e2b-b42f-38032294a47c,Michelle,Atkinson,2009-02-22,M,Black,31167 Hernandez Lights Suite 084,Lake Travis,MI,69174,850-478-9679x35219,807-52-3394,INS-rp3556Ts,Medicare,A+,2020-03-10 06:33:38
+adffc342-d0c3-4990-ad2e-470ab6b5a36d,Caroline,Harrison,1981-11-25,M,Asian,931 Marquez Brooks,Armstrongstad,GA,50435,5766761645,376-34-7841,INS-PH2239MH,Self-Pay,AB+,2019-08-04 15:39:12
+75a03539-357e-4009-9831-bacaaa44cd56,Tiffany,Diaz,1935-03-14,Unknown,White,21980 Miller Glens,Hernandezberg,CA,57634,423-664-2813x190,562-61-6935,INS-MT2303ee,Medicaid,B+,2017-12-27 07:14:41
+cae17227-61cd-4694-8f8b-8de8a102c4e1,Lisa,White,1966-11-16,F,Asian,8522 John Branch,Melissaview,PA,67773,4884062207,248-78-6017,INS-Dl9473Th,Medicare,A+,2020-06-25 21:24:19
+451110c0-1d0e-41c5-b069-223639653f57,Danielle,Webster,1952-04-26,F,White,2047 Byrd Locks,Onealmouth,MI,85350,359.796.4862x87203,863-39-1893,INS-tx9666bu,Cigna,AB-,2024-07-20 00:40:53
+aab79133-8307-4596-8f7a-cf7efc2de46c,Karen,Lewis,1957-04-20,Unknown,Asian,9246 Douglas Forks,Kingfurt,CA,61626,001-775-237-2603x214,359-60-6334,INS-wG6194JE,Medicaid,O-,2016-12-13 08:22:11
+07f2985f-f368-4e48-ae91-f05828e08a4c,Carlos,Rivera,1995-07-07,Unknown,Asian,201 Julie Points Suite 008,Lake Adriana,MI,03665,365.997.5954x508,777-63-7101,INS-Ge8089jy,Aetna,B+,2021-11-17 00:46:28
+ba3d6252-6748-4541-a462-911c638515aa,Jennifer,Simon,2020-03-02,M,Hispanic,23196 Foster Canyon Apt. 402,South Ashley,OH,55235,(268)694-3012,745-62-1083,INS-hf3727QD,Medicare,AB-,2022-02-03 05:35:48
+5f267a84-ef25-4891-9cd7-c0dafeb466b8,Jessica,Watson,2014-03-16,M,Black,9885 Rose Shores Suite 933,South Timothymouth,MI,67195,976-409-4412x8333,101-90-8884,INS-AK8566vt,Medicaid,A+,2017-08-22 15:47:41
+4838e78e-78bb-46c1-9ebe-6b8b05db89a8,Francisco,Olson,1963-04-06,M,White,0666 Robert Burgs,Sharonville,NY,40872,677.569.3663,626-22-5507,INS-yf2959gf,Medicare,O-,2017-08-29 23:55:32
+a3a4bc06-5e63-437c-b627-57e500393f7e,Edward,Patterson,1931-06-01,Unknown,Hispanic,200 Thompson Dale,Tonyastad,NY,89464,+1-259-510-2451x09109,809-22-6404,INS-sN7149He,UnitedHealth,AB-,2021-02-06 00:25:20
+0c6be45c-6b87-4bfa-ab5e-290b8bd8ddc8,Calvin,Obrien,1949-02-14,Unknown,Asian,81793 Johnson Walk Suite 277,Stephanieport,NY,38990,+1-266-334-5337x2201,152-14-7356,INS-Xv2214Su,Medicaid,AB+,2026-02-11 23:58:48
+ead9c793-3563-4cef-b851-212baa5865bc,Jennifer,Graham,1962-10-27,Unknown,Asian,894 Paula Shoal,West Ericborough,NC,45732,700-946-2776,137-42-6920,INS-Yk5920qA,Self-Pay,AB+,2017-11-05 18:21:30
+3700ce93-7619-4156-adaa-68e948ab94e1,Nancy,Cook,1996-07-10,F,White,38974 Jennifer Mall,Port Albertstad,OH,93741,895-550-1783x32584,446-99-0646,INS-IW7984Dc,Medicare,A-,2021-02-06 06:30:32
+9a7bb94b-0a40-4d27-810f-1c9315455c8f,Andrew,Lawrence,1975-07-11,F,Other,6799 Sandra Village,South Joseph,IL,85967,2395464083,842-58-3916,INS-eZ6060Zr,BlueCross,O-,2025-05-14 12:20:04
+ff42c566-9b68-4f49-88a7-a03ab2f7c0d7,Shelby,Smith,2004-08-22,F,Other,079 Amanda Plaza Suite 136,Gregoryborough,MI,02363,+1-461-853-7012x42446,209-94-2686,INS-IS5144JO,Cigna,A+,2017-06-05 17:46:46
+32df2e81-9875-421b-9ad1-5c0ed6225a9b,Tonya,Marks,1940-08-19,Unknown,Hispanic,14217 Martinez Trafficway,Dixonfort,NY,88056,+1-341-351-5263x840,167-19-5605,INS-EW2883Ow,Medicaid,B+,2016-10-07 15:24:16
+f7965cbe-e0bb-4fb1-98fb-0690d9edf3eb,Melissa,Sparks,1976-07-22,Unknown,Black,86323 Ayala Summit Apt. 378,Hughesstad,TX,26599,7078309505,768-01-5164,INS-MH7121JX,Aetna,B-,2018-03-30 09:45:32
+a169ee5c-ceab-4330-8b06-c9762e67098d,Derek,Snyder,2010-12-13,M,Hispanic,90534 Carter Walks Apt. 042,Lisaberg,OH,37288,461-385-1744x60045,891-18-8601,INS-hg9915qX,Medicaid,B+,2021-12-09 14:34:54
+3b6e4bb1-d0ce-473d-bec2-2ab4af356002,Pamela,White,1973-07-31,F,Black,130 Collins Trace,Port Jennifershire,PA,91003,+1-348-741-6046,276-95-0853,INS-ag2119Ec,Self-Pay,A+,2024-03-30 04:33:13
+e258bfb2-26b0-4381-a8ea-af0b5b697408,Richard,Rodriguez,1979-05-29,Unknown,Black,831 Jackson Run,Lake Lisafort,NC,29129,001-522-283-6084x9378,441-28-6365,INS-iz3845LA,Cigna,AB-,2026-02-06 04:00:17
+79491749-3f66-41e7-8c27-8f5bc83336b6,Joseph,Jensen,1969-05-29,Unknown,Hispanic,649 Smith Crescent,Garzaview,NC,91111,(592)291-3203,749-10-6468,INS-Ka2341Pn,Medicaid,AB-,2018-02-22 20:47:45
+dd2d6983-ca52-44fb-8a20-052099a0afc3,Alexander,Rodriguez,2025-01-05,M,Hispanic,2215 Rowland Lane,Scottborough,NC,83738,(836)253-3774,259-01-7100,INS-VD7200Hs,Medicare,AB-,2019-09-24 03:44:14
+2df22401-6b4a-4abf-b183-08a2d350231b,Daniel,Mitchell,1986-07-10,Unknown,Asian,2607 Brenda Keys Suite 373,Maryfurt,MI,35843,(573)472-0376,113-35-6076,INS-QH8414Zt,Self-Pay,B-,2023-02-17 03:14:15
+99572c98-1cc2-46e6-8101-2bf9af568e94,Bryan,Krueger,1933-01-08,M,Asian,44389 Courtney Pines,East Susanmouth,NC,90893,001-586-895-0732x14644,686-78-9261,INS-EN9516mp,Humana,B-,2021-10-14 05:57:01
+424d34f2-77e4-499e-82d7-83142ea619de,Michaela,Kelly,1936-06-28,F,Asian,573 Bernard Brook,North Annetteberg,FL,30818,(703)376-8118x72333,038-33-0192,INS-PL9614Cn,Self-Pay,AB-,2017-11-07 10:07:12
+8c065c8d-7e23-49de-9587-bba1e0215926,Sandra,Carr,1976-08-22,F,Asian,9830 Barker Plains,Lake Katherine,NC,96008,5736651189,001-55-5718,INS-bV5782gO,Humana,AB+,2025-12-26 23:38:40
+f08100a8-e839-4e8d-93f7-180402055660,Elizabeth,Lee,1933-03-01,M,Other,02333 Kenneth Circle,Perezberg,NC,04628,835-246-2127,176-48-0576,INS-fW8261kn,Medicaid,O+,2017-07-04 11:14:57
+d671ad44-5070-4070-a459-6a814f09ed00,Robert,Hamilton,1951-03-08,F,Black,8889 Mercado Estate,South Roger,IL,80579,945.349.3036x468,896-75-1890,INS-hJ2038Ez,BlueCross,AB+,2026-02-20 15:34:31
+8cc1b08d-76ca-473a-ad10-fcb938e80111,Brian,White,1948-08-29,Unknown,White,30898 John Plaza,West Alicialand,OH,34534,458-922-0673x231,074-55-8958,INS-Rr1572vb,Self-Pay,AB+,2016-10-28 06:04:24
+e8ff3135-1281-4a7a-bb31-07b4fc5d4660,Kimberly,Rowe,1931-10-30,Unknown,Hispanic,015 Katherine Valley,North Haileyfort,FL,13380,685.609.0255x618,268-21-1394,INS-IE8299sF,Cigna,AB+,2025-02-22 12:20:39
+10144e5e-c131-4513-81e1-648b6ecc273e,Edward,Holloway,1940-09-06,Unknown,Asian,905 Harrison Parkways Suite 700,North Ebonybury,NY,50032,(551)858-4826x691,153-35-8384,INS-xt3550kY,Aetna,B-,2026-01-27 19:20:16
+34591c8c-ad0c-413b-bcd5-35dcc0afb2b4,Jessica,Tran,1981-05-04,M,White,706 John Rapids,Montgomerytown,NC,82342,001-282-621-0401x64818,641-94-4238,INS-pH2877my,Cigna,B-,2019-06-15 18:23:52
+b4afc27d-167d-42c1-b0f0-eba3905d051a,Deborah,Ross,2002-02-28,M,White,12694 Aimee Rue,Rickeyburgh,PA,03215,662.358.6314,474-06-6393,INS-Wx4625Ws,Medicare,O-,2016-12-24 12:01:38
+9e57780d-df7f-49c7-a9f4-99dc633931b6,Richard,Perez,1955-08-27,M,Black,8243 Elizabeth Mountains Suite 464,Williamhaven,TX,66720,6317538882,743-18-7630,INS-sR9050Od,UnitedHealth,O+,2021-03-21 02:06:24
+5ad1a6da-085a-4bb7-b022-28d1e8c1b414,James,Robinson,1962-10-05,Unknown,Hispanic,84951 Chandler Valley Apt. 111,Foxville,GA,71853,4938391373,660-42-3699,INS-fW0601NW,Cigna,AB+,2024-11-06 19:03:16
+bcde6e50-d93a-4788-82f0-344406ed94db,Katherine,Murphy,1997-11-08,F,Asian,78688 Alex Ferry Apt. 009,West Kimberlyville,TX,72556,(698)603-6577,843-77-1962,INS-zx6093NY,Aetna,B-,2022-02-22 05:15:24
+4ecd1555-929a-450f-8dc1-b835320ef3ce,Norma,Jones,1948-06-26,Unknown,White,89418 Perez Locks,Coopertown,NY,77382,(463)322-3998,246-58-4506,INS-fq5561cS,Medicaid,B+,2021-04-06 01:41:31
+9fb9504c-6d09-4818-9bb3-45e6da068347,April,Russell,1947-12-16,M,Hispanic,0537 Patterson Turnpike,New Heatherville,GA,98325,(860)803-0835,623-12-0447,INS-uV6271ng,UnitedHealth,AB+,2019-04-01 02:36:15
+bf008076-a505-4dae-87f3-760ff54cc0bd,Jonathan,Peterson,1960-01-04,M,White,8826 Todd Vista,Colemanside,IL,84931,(693)284-4013,813-68-7331,INS-EQ3543JV,Aetna,AB-,2025-04-03 04:39:51
+3750abf0-6c98-4040-b69a-12af23eee1c3,Rick,Lewis,1948-11-01,F,Hispanic,101 Hayes Square Apt. 908,Victoriashire,NC,93240,444-892-0749,775-77-9385,INS-Zy9699XQ,Self-Pay,B+,2021-04-21 09:02:34
+bdca5c8f-322b-4085-929a-1e74089f94ef,Darlene,Malone,2005-06-24,Unknown,Hispanic,84285 Walsh Port Apt. 259,West Andrewhaven,IL,41080,001-493-823-1234,414-73-9173,INS-JE0690jz,Cigna,A-,2018-04-07 00:06:44
+b8c05496-d2d7-4586-8f93-37d9a461a13a,Kathryn,Compton,1992-06-24,F,Black,723 Hoffman Stream,New Catherine,GA,43201,+1-895-738-2804x05612,031-71-2413,INS-Rj6958BQ,Humana,B+,2020-10-14 15:28:30
+db8569bf-6b99-43dd-8559-10915cf92011,Kristen,Reyes,1942-12-25,M,Asian,6130 Stokes Courts Apt. 385,Tinaville,IL,33522,646.282.3948,876-04-2691,INS-QG7300BM,Cigna,B+,2022-11-28 02:18:30
+747e2fd1-1d69-4322-8b67-c6b649c1d4b3,Bryan,Brown,1983-03-29,Unknown,Hispanic,311 Lisa Isle Apt. 016,New Deborahland,PA,38909,+1-491-250-7628x3976,748-48-3613,INS-CC4407Ms,Medicare,A-,2022-11-28 12:00:02
+0ba61b2f-be90-4987-abd1-074d01411877,Brian,Hahn,1952-05-07,F,White,662 Melvin Point,Lake Moniquefort,NY,50894,6293914068,200-26-3321,INS-uw7312Tk,UnitedHealth,O-,2019-09-16 13:36:10
+9cd9f170-a47b-4532-806e-34f45e11055b,Ruth,Morales,1977-03-06,F,Black,170 Melissa Expressway Apt. 192,South Danielchester,TX,31692,652.677.8956x13371,271-76-0806,INS-jz2950sG,Humana,O+,2016-12-28 17:44:34
+7663a4ca-abe6-40dc-bd25-6f150985ab13,Ryan,Mitchell,1943-02-14,M,Hispanic,73416 Ferguson Divide,Figueroafort,IL,87962,822.410.2179x82134,587-70-5573,INS-WB7973oI,Medicare,AB+,2020-05-24 16:06:01
+ab1e0710-721d-40c2-9ba1-96d3a845dd16,Melanie,Thompson,1945-11-27,Unknown,Other,0539 Moyer Brooks Suite 986,Beckerville,TX,59951,406.373.6820x5068,675-22-2957,INS-fz3552RQ,Humana,AB-,2022-06-28 00:50:50
+6aa68c04-31c7-47df-a0a9-99cd65973185,Kimberly,Ryan,1932-04-11,Unknown,Black,46921 Charles Ports Apt. 596,Fischerton,TX,73577,001-284-436-9984,130-05-5422,INS-BU0938MT,Aetna,O-,2020-07-11 18:39:28
+0019cec4-52fe-4847-ad7a-4170c9da7427,Tanya,Wong,1999-04-24,F,Black,598 Deborah Haven Suite 788,Riverston,PA,91632,+1-471-252-3867x6738,631-58-4504,INS-UO6191QD,Humana,A-,2024-09-05 17:30:30
+8c353924-28c9-4c0e-abc6-8e026fc81e79,Amanda,Cruz,2013-05-03,Unknown,Asian,968 Higgins Drives,West Zachary,OH,26211,708.858.0623x5040,391-94-5438,INS-Rh7900kr,Cigna,B-,2025-06-23 23:32:36
+b8a91d4f-90c5-4913-a92e-a66637fc263b,Kimberly,Cooper,1954-03-14,M,Hispanic,4286 Watkins Flat Apt. 594,Lake John,NY,17946,+1-389-746-3389x15624,192-69-5536,INS-kK7256kz,Self-Pay,AB-,2020-01-12 20:05:29
+74bedd14-9b2e-4fd2-b4cf-f2421b25b0cd,Jeffrey,Moreno,2024-10-16,F,Other,38186 Diaz Rue Suite 846,Alexismouth,GA,99589,944.930.3491x8911,169-07-3263,INS-rY8593cf,Cigna,B-,2022-06-16 17:54:14
+9426dc2a-77f5-4d01-a7d5-bfacc029b3ca,Ralph,Davis,1958-11-12,Unknown,Other,1553 Jay Extensions Suite 936,Lunahaven,CA,13264,367.650.0942,789-12-0577,INS-NH5276hS,Self-Pay,AB-,2025-03-03 19:52:01
+f3bd7025-5097-43df-9cb7-023322c4dcaf,Anna,Jacobs,1994-08-14,M,Other,0452 Megan Pine,Richardberg,CA,43871,+1-966-605-9867,306-22-2265,INS-VQ7585rI,BlueCross,B-,2022-01-14 08:14:23
+cf31fafa-8efe-4526-9858-bda1749843f1,Robert,Cox,2010-04-30,Unknown,Other,942 Kevin Ridges Apt. 165,East Sarahtown,NY,05665,4243539313,819-42-5200,INS-vE1305cH,UnitedHealth,AB-,2019-09-25 17:13:36
+40a46403-0cb3-4eb8-ba01-fa1a81a853d8,Cynthia,Peters,2016-06-19,Unknown,Hispanic,144 Rosales Pine,Cruzfort,CA,19384,736.677.4620x2582,215-09-8616,INS-Vi3281me,Cigna,O-,2018-05-30 07:28:10
+137b7b20-9f67-4727-b351-7e459e7b9008,Catherine,Johns,1957-07-03,M,Other,491 Nicholas Branch,New Johnview,GA,64665,(838)375-0827,682-59-2900,INS-uq2577Vx,BlueCross,O-,2025-10-27 22:36:18
+7fb32a5b-16e7-4793-bb6c-52d54c5b64e7,Joseph,Taylor,2015-09-10,M,Other,052 William Trail,Reyesside,PA,32101,001-516-908-2717x2173,807-92-3560,INS-ul9920lj,Self-Pay,A+,2026-01-26 16:55:26
+1ccc6d07-57e5-44b5-a3c3-70de93ddd4e5,Renee,Lewis,2007-05-30,Unknown,Hispanic,16591 Young Plaza Apt. 325,Jacquelinebury,IL,76208,+1-935-984-4617,225-21-6441,INS-vq4309qK,BlueCross,O+,2024-09-25 17:34:45
+08d0557f-9186-4d09-8d85-a45b7e74d50d,Jennifer,Wilson,2013-06-11,F,White,970 Ashley Mill Apt. 205,Lake Rachel,FL,61909,001-287-313-7529x88322,138-47-6507,INS-cc0832qW,Aetna,A+,2025-09-09 06:43:09
+d95611b0-85f8-4d11-8739-3e13662d11c8,Catherine,Case,1996-10-20,F,Asian,889 Bailey Fords Suite 852,Lake Amanda,CA,08480,001-303-704-4361x99517,856-21-3442,INS-PK9102kX,BlueCross,A-,2026-03-31 06:44:51
+43870102-b47d-4073-b5cf-c72b31376e67,Elizabeth,Davis,1977-08-27,F,White,4830 Rhonda Ports,Gayland,IL,28080,+1-397-919-1260x22132,420-60-2288,INS-hh0191yz,Medicaid,B+,2018-01-14 21:55:34
+2e249171-122c-4961-a9ef-c30bacbfd5ed,Robin,Williams,1947-11-19,M,Hispanic,2587 James Road,North Kelly,OH,25725,(365)338-0274x81242,292-03-9149,INS-aK6825Qu,Medicaid,O-,2018-07-21 03:02:47
+b48939fd-2d5b-442c-b8e6-f1b31cc17a90,Caitlyn,Bennett,1950-09-09,F,Hispanic,355 Franco Circles,Port Sarahshire,CA,78646,(829)770-1371x243,563-42-8842,INS-nb5642qe,UnitedHealth,AB-,2018-12-01 22:46:27
+d6935707-114b-411c-b0fa-109445c7b22c,Donald,Olson,1933-09-30,M,Black,1592 Hall Park,Bruceton,NC,58580,001-716-769-0632x2481,268-21-0125,INS-dh3403bN,Medicaid,B+,2022-06-10 07:16:07
+ec2990af-b471-448f-9947-960d5de1fcc0,Sue,Elliott,1985-06-14,Unknown,Black,6491 Ramos Springs Suite 546,East John,TX,14450,(347)360-1080,040-27-0437,INS-Cz6831rW,BlueCross,AB+,2017-10-16 15:49:25
+74a5ac4c-741a-4d5c-b98a-29b39913e4f4,Evan,Black,1996-10-22,F,Other,157 Eddie Burgs,West Janetmouth,PA,11568,580.767.1307,082-07-4715,INS-tm5847Zz,Medicaid,B-,2019-03-28 19:56:01
+80d3455e-0223-46d8-b93e-6ba9b3ea015b,Jane,Johnson,1945-10-20,M,Hispanic,58857 Warner Ranch Suite 703,New Adamborough,OH,88456,001-339-562-7466x62159,851-18-7783,INS-zA0004Bg,UnitedHealth,AB+,2021-07-18 13:09:07
+6c984356-9d69-4fd2-8e35-b0199dd2625a,Courtney,Johnson,1975-03-20,M,White,07977 Robin Camp,Lake Dianashire,TX,31427,+1-381-794-9053,804-23-0693,INS-cZ4998Lt,Medicaid,A+,2024-09-18 04:53:52
+081d2949-fa71-442e-932a-369cb0c83a04,Krista,Rice,1984-01-07,M,Black,313 Garza Spur Apt. 669,Curtisfurt,CA,13552,(537)540-7794,851-23-5281,INS-QL6238Ms,Aetna,A+,2026-03-06 07:54:05
+0e2990bc-256b-4ec1-b3f2-058d8d147f4e,Rhonda,Forbes,2007-08-17,F,Other,14262 Jason Center Suite 821,South Brianburgh,TX,87107,+1-904-418-1359x98989,115-11-7282,INS-sQ0889Gb,Cigna,A+,2017-06-18 06:57:57
+c4d6204b-7cbd-45c9-86dd-6e576f5d7d17,Sarah,Shannon,2004-08-26,F,Hispanic,221 Arroyo Knolls Apt. 978,Samueltown,FL,71161,(900)348-0675,849-24-3096,INS-Mz6914fW,Cigna,A+,2017-09-09 16:46:04
+f3dee702-0b41-41d1-8f9a-173c8b2a2a4d,William,Porter,1951-09-27,M,Other,96882 Barber Lock Suite 040,Jeromeville,IL,34402,596-415-6078,500-37-9064,INS-wg8356XD,Cigna,AB-,2026-02-22 22:57:51
+452b17c0-6969-494a-9ea9-4c3ed510237a,Elizabeth,Sanders,2019-11-24,Unknown,Other,096 Conley Lane Suite 834,Johnsonmouth,OH,67570,521-870-2851x6225,282-70-8958,INS-YX2089or,Cigna,AB+,2025-05-10 13:33:13
+34d95f55-d22b-48d2-b5a8-e405fc86ba45,Amanda,Shaw,1984-09-18,M,Other,2467 Vicki Terrace,Guzmanland,FL,56195,5917141319,678-97-9826,INS-on2361EU,Medicaid,AB+,2023-03-13 11:29:43
+c9ea076b-6e19-4941-b6c1-8a1f4a091094,Matthew,Pollard,1930-04-26,F,White,5881 Cook Village,East Michaelview,NC,98867,272-841-9165x0344,412-09-7702,INS-Sq7182MI,UnitedHealth,O+,2026-01-05 11:52:01
+a2dfc221-c267-4c6a-a18f-83e1e4ec792a,Crystal,Payne,2004-08-26,Unknown,Hispanic,7821 Miller Groves,Blackville,TX,30185,992-666-4869x89396,519-49-9294,INS-Lq4155uZ,Medicare,O+,2017-02-05 21:09:33
+9f4c380b-db0b-4fbe-acb8-52cbd62b49ce,David,Taylor,1945-04-26,Unknown,Asian,75360 Wilson Mountains,South Feliciaton,PA,30263,+1-688-763-6536x218,382-77-0915,INS-bM6700PP,Medicaid,B+,2025-12-31 07:23:02
+5cbce591-9928-4b9f-8441-6b4368f831f9,Lindsay,Evans,1971-03-30,F,Hispanic,04664 Reynolds Loop Apt. 564,North Lori,NY,41230,265-877-5809x74533,134-32-6055,INS-Ol4662XA,Self-Pay,B-,2021-12-26 12:32:31
+e6094451-a8d7-449c-bfc5-e5547ebdab47,Keith,Rodriguez,2025-08-10,M,Asian,953 Albert Spring Suite 221,East Kelly,NY,59735,(677)346-2591x60112,095-48-8248,INS-da4886WI,Self-Pay,A+,2016-07-07 19:58:59
+077ad22f-ced7-4a2c-96c6-ac052ca32f3c,Thomas,Black,1945-01-02,Unknown,Hispanic,7823 Gerald Ranch Suite 704,Taylorchester,PA,34988,(661)521-2038,754-98-7844,INS-SL5365Uy,UnitedHealth,O+,2025-04-26 01:45:41
+dd307099-9858-4f5f-8024-f14ec6f6489a,Steven,Bell,1936-10-20,M,Asian,4824 David Point,New Mark,FL,33690,(540)306-4454x752,115-18-3172,INS-NW2748VU,Medicare,A-,2024-08-14 01:57:20
+2608830f-cedf-45de-8cdd-0287e73b6d68,Shelby,Quinn,2023-02-06,F,Asian,7633 Newman Springs,South Geoffrey,CA,25618,+1-286-321-7508,622-50-4046,INS-cy0453MY,Cigna,A+,2020-03-01 21:04:24
+2b4ba76f-72b9-4982-baec-b6f9023f2394,Jennifer,Shaw,1974-06-28,F,Hispanic,9353 Smith Walks,New Cesarfurt,MI,58243,684.881.6524x4454,055-69-3445,INS-MN8517nC,BlueCross,A-,2025-08-29 11:23:16
+958fc3e0-0624-4419-96c2-be167222d144,Alexis,Parks,1944-11-03,M,Other,91287 Sawyer Street Suite 999,Mcneilhaven,NC,67936,001-629-804-5792x71472,239-05-1468,INS-lr9864in,Cigna,O-,2025-09-25 01:04:14
+0320543d-1b63-4ec2-9961-acd92151cfcc,Jeremy,Cole,2018-07-18,M,Asian,91218 Johnson Viaduct,New Jason,IL,23098,480.298.3221x01023,017-09-8553,INS-hc6766bG,BlueCross,B-,2025-10-03 12:05:21
+ef2ffaa3-44c8-4f3e-992c-d417ec0e8664,Timothy,Hughes,2022-05-12,M,White,143 Reyes Course,Bryanbury,GA,72988,753-619-8074x6823,419-76-5184,INS-UX1003bD,Cigna,B-,2023-02-20 15:11:29
+ad0a79f2-d71b-4849-8b75-7ddd2fe4abc8,Adam,Roth,1955-01-30,F,Black,9671 Smith Spurs Apt. 666,Adamsland,NC,02210,+1-865-641-1340x7851,791-80-7692,INS-xX0890JW,Medicare,AB+,2019-07-29 00:50:46
+fc3f161b-d6a4-4541-907c-3e4d8af02d0c,Robert,Harris,1988-10-07,F,Hispanic,8999 Moore Rest,Gloverhaven,NC,31182,+1-968-388-9178,373-04-6079,INS-De9625KD,Medicare,AB+,2022-09-04 11:23:02
+cfc416ff-6002-4092-889f-0c64b3951f90,Heather,Young,1933-06-09,F,Asian,26578 Omar Hollow,New Melissashire,NC,48806,(917)955-8517,298-91-1479,INS-Ml2746Ye,Self-Pay,O-,2017-11-26 14:47:26
+7491c2a5-3721-4b02-af77-01f0dbc7f8f3,Emily,Davenport,2003-12-31,M,Hispanic,1996 Ryan Fall,East Carrie,OH,63091,789-917-0454x21854,854-06-5226,INS-Kj6820ix,Cigna,AB-,2024-09-18 10:44:06
+00c5ec1e-1ff1-4a6c-a2ea-1b40954b343a,Jennifer,Smith,1930-04-08,F,Hispanic,63564 Stephen Forest,West Melanie,TX,62105,(382)989-5400,533-84-8466,INS-pf2247iA,Cigna,B+,2017-06-29 23:07:25
+e353a01a-68b0-4fd2-9160-8698e5711d6e,Shelly,Daniels,1983-04-08,M,Asian,71058 Christopher Ports Suite 092,Blackwellville,NC,86607,252-461-0537,205-06-0538,INS-uR7169aa,Medicaid,AB+,2024-06-29 04:23:36
+c9b36949-78c7-4de2-9b0e-fd3642eeb9ff,Rebecca,Greer,1965-02-26,M,Black,948 Lyons Forks,Port Ashley,OH,61885,(398)493-6529x44716,486-26-5094,INS-cq8131vc,Cigna,O+,2018-11-16 18:40:18
+9349c22a-98b5-41e6-b6c4-0aff3f319973,Kim,Beck,1978-02-19,Unknown,Black,21743 Kim Pine Apt. 526,South Michelleside,GA,57572,5676398344,182-41-3734,INS-Id6462vv,Medicare,AB+,2017-03-01 07:44:47
+1a3eb113-496d-41ea-946b-dfaf4b85f34d,Lisa,Mcintosh,1990-11-22,F,Hispanic,5795 Miller Locks,East Anne,GA,96076,6902855107,683-77-1667,INS-DX3111Gy,UnitedHealth,AB-,2017-11-15 07:46:46
+6095b731-3c27-4c3d-aa0f-399d92ba64e3,Valerie,Smith,2012-01-22,M,Black,7602 Cynthia Lodge Suite 354,Lake Gregorytown,NC,11339,+1-322-775-9500x26015,220-93-3000,INS-ON5947vc,Self-Pay,B+,2023-09-18 13:25:30
+508918fb-4c36-4950-97fd-575f452cc968,Bradley,Davenport,1968-09-16,Unknown,White,3279 Sarah Station,Dawnbury,NC,87850,001-610-706-4934x03910,130-05-3515,INS-SW6089se,BlueCross,A-,2017-06-26 23:38:21
+1583b20d-1d51-45d5-a87a-3fcd40df5fc2,Kevin,Austin,2004-02-16,Unknown,White,59928 Reed Terrace,West Gina,TX,45126,(205)261-0067,408-74-7021,INS-yT8018CE,Medicaid,B+,2020-09-24 07:43:33
+d34cbb99-fe88-4a57-95da-c8cb91505e95,Kimberly,Woodard,1936-04-04,Unknown,Black,423 Ashley Heights Suite 953,North Philipmouth,CA,49912,001-625-450-3250x17365,401-24-4684,INS-lL1784dO,UnitedHealth,A+,2019-06-10 02:06:56
+bbe3c19c-cb1d-4242-87d0-fbfb30da4f5c,Stacey,Park,2020-04-14,M,Other,34511 Jo Bypass,Lake Pattychester,GA,89206,5532088684,156-15-1449,INS-Yi6673Na,Medicare,A+,2021-01-19 06:39:28
+a1cc4c5d-00f3-4c3c-858e-738cc6a71202,Matthew,Hester,2022-07-31,Unknown,Other,9887 Vincent Wall Apt. 129,Collinsfurt,GA,06586,436.320.2755,262-60-7592,INS-Ch0920fZ,Self-Pay,A+,2022-02-12 15:32:49
+8d400530-1fb0-43a0-a40d-e9ca11fb035b,Jeremiah,Walton,1952-04-27,M,Other,36219 Carlos Pine,New Ashleyfort,NC,95238,5597161186,341-71-9022,INS-VD1959SE,Medicaid,A+,2019-02-10 05:16:07
+8d0211d1-c7a8-4264-8150-625989bc469b,Hannah,James,2026-01-25,M,Other,053 Nichols Valley,North Amy,IL,49710,+1-428-497-2845x401,740-97-7812,INS-Jn2002Ns,Humana,A+,2025-05-23 04:39:47
+9143c1ee-1282-437a-ae8b-24f146d14b4a,Colleen,Roberson,1947-08-10,Unknown,Hispanic,20414 Freeman Harbors,Lake David,NY,98714,211.665.9930x20203,732-90-2446,INS-Fw3227iS,Aetna,A-,2018-01-07 00:30:44
+ba93c370-2224-48b0-b471-ec066a3ac91d,Nathan,Lee,1963-06-05,Unknown,Black,165 Richard Locks,North Evelyn,FL,08029,(593)477-7569x198,787-10-0376,INS-RR2916Ve,Cigna,AB+,2024-04-02 00:09:40
+6a49d62f-41d4-4d62-81f4-16ceb28d465a,Nicholas,Franklin,1970-11-21,F,Asian,831 Joseph Ville,Carlfurt,PA,51865,(229)713-1670,416-72-6039,INS-yo6670Sz,Aetna,AB-,2018-11-12 01:43:10
+eb70b830-d95f-4407-8be3-18f1d304f85d,Ashley,Brock,1941-09-15,F,Hispanic,0494 Turner Camp Suite 663,Cassandraborough,MI,94516,996.550.4962,133-22-6314,INS-sj2611qn,Cigna,B-,2023-04-03 00:05:52
+37f537af-3194-4497-9c9b-57648221a7ef,Derrick,Poole,2020-10-29,F,White,854 Craig Passage Apt. 879,Lake Cindychester,TX,19836,+1-434-619-9643x3853,472-24-5991,INS-op0583qm,Aetna,O+,2016-11-07 08:54:44
+3e262f5d-6262-42ef-bb3f-1bf3812b8e2f,John,Miller,2024-02-07,F,Hispanic,876 Nathaniel Stravenue Suite 576,Victormouth,NC,53110,001-945-635-3659,403-50-9743,INS-nr8616if,Self-Pay,A+,2019-04-10 21:29:30
+9abae1ed-6347-4334-9a9c-fb7b8cefd41b,Justin,Johnson,1976-12-22,Unknown,White,594 Lisa Ferry,Carlsonmouth,NY,49156,001-966-647-2130,140-31-6029,INS-yh9142sd,Aetna,O-,2020-10-06 18:34:48
